@@ -9,7 +9,7 @@ public:
 
         for (int r = 0; r < s.size(); r++) {
             mp[s[r]]++;
-
+            maxf = 0;
             for (auto m : mp) {
                 maxf = max(maxf, m.second);
             }
