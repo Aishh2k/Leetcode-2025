@@ -10,28 +10,23 @@
  * };
  */
 class Solution {
-    int maxD = 0;
-
 public:
-    int height(TreeNode* root) {
-        if(root == NULL){
+    int maxD = 0;
+    int dfs(TreeNode* root){
+        if(!root){
             return 0;
         }
-        int r = height(root->right);
-        int l = height(root->left);
-        return (max(r,l)+1);
+        int r = dfs(root->right);
+        int l = dfs(root->left);
+        maxD = max(l+r, maxD);
+        return(max(l,r)+1);
     }
-    int diameterOfBinaryTree(TreeNode* root) {
 
+    int diameterOfBinaryTree(TreeNode* root) {
         if(root == NULL){
             return 0;
         }
-
-        int r = height(root->right);
-        int l = height(root->left);
-        maxD = max(maxD, r+l);
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
+        dfs(root);
         return maxD;
     }
 };
