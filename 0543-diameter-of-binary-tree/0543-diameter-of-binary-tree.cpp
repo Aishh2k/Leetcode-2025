@@ -10,8 +10,9 @@
  * };
  */
 class Solution {
-public:
     int maxD = 0;
+
+public:
     int height(TreeNode* root) {
         if(root == NULL){
             return 0;
