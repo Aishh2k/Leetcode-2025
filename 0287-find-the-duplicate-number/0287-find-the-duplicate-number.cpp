@@ -10,13 +10,10 @@ public:
         } while(slow != fast);
 
         slow = 0;
-    cout<<endl;
         while(slow != fast){
             slow = nums[slow];
             fast = nums[fast];
-            cout<<slow<< " : "<<fast <<endl;
         }
-        return slow;
-        
+        return slow;  
     }
 };
