@@ -19,11 +19,13 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -41,4 +43,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0011-container-with-most-water/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
