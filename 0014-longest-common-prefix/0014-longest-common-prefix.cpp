@@ -8,7 +8,7 @@ public:
         string b = strs[strs.size() - 1];
         int i = 0;
 
-        while (i < b.size()) {
+        while (i < a.size() && i<b.size()) {
             if (a[i] == b[i]) {
                 ans += a[i];
                 i++;
