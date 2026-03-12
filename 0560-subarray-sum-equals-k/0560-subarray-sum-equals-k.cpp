@@ -8,14 +8,16 @@ public:
 
         for(int i =0;i<nums.size();i++){
             sum += nums[i];
-            int rem = sum - k;
+            int prefix = sum - k;
 
-            if(mp.find(rem) != mp.end()){
-                res += mp[rem];
+            if(mp.find(prefix)!=mp.end()){
+                res += mp[prefix];
             }
+
             mp[sum]++;
-            
         }
-        return res;  
+
+        return res;
+        
     }
 };
