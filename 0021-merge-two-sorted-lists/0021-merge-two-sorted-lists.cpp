@@ -12,37 +12,44 @@ class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
 
-        ListNode* tail;
-        ListNode* head;
+        ListNode* temp = nullptr;
+        ListNode* head = nullptr;
 
-        if(!list1){
-            return(list2);
-        }
-        if(!list2){
-            return(list1);
+        if (!list1) {
+            return list2;
         }
 
-        if(list1->val >= list2->val){
-            head = tail = list2;
+        if (!list2) {
+            return list1;
+        }
+
+        if (list1->val > list2->val) {
+            head = temp = list2;
             list2 = list2->next;
-        }else{
-            head = tail = list1;
+        } else {
+            head = temp = list1;
             list1 = list1->next;
         }
 
-        while(list1 && list2){
-            if(list1->val >= list2->val){
-                tail->next = list2;
+        while (list1 && list2) {
+            if (list1->val > list2->val) {
+                temp->next = list2;
                 list2 = list2->next;
-            }else{
-                tail->next = list1;
+            } else {
+                temp->next = list1;
                 list1 = list1->next;
             }
-            tail = tail->next;
+
+            temp = temp->next;
         }
 
-        tail->next = (!list1)? list2: list1;
-        
-        return(head);
+        if(list1){
+            temp->next = list1;
+        }
+        if(list2){
+            temp->next = list2;
+        }
+
+        return head;
     }
 };
