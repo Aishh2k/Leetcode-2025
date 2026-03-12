@@ -89,6 +89,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0002-add-two-numbers/) | Medium |
+| [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
