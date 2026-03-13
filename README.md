@@ -33,6 +33,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
+| [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0005-longest-palindromic-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
