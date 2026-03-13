@@ -12,35 +12,32 @@ public:
         if(!head || !head->next){
             return false;
         }
-        ListNode* temp = head;
+        //ListNode* temp = head;
+        // unordered_set<ListNode*> st;
+        // while(temp){
+        //     if(st.count(temp)){
+        //         return true;
+        //     }
+        //     st.insert(temp);
+        //     temp = temp->next;
+        // }
+        // return false;
 
-        unordered_set<ListNode*> st;
 
-        while(temp){
-            if(st.count(temp)){
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(slow && slow->next){
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if(fast == slow){
                 return true;
             }
-            st.insert(temp);
-            temp = temp->next;
         }
 
         return false;
-
-
-
-        // ListNode* slow = head;
-        // ListNode* fast = head;
-
-        // while(slow->next && fast->next->next){
-        //     slow = slow->next;
-        //     fast = fast->next->next;
-
-        //     if(fast == slow){
-        //         return true;
-        //     }
-        // }
-
-        // return false;
         
     }
 };
