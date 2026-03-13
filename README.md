@@ -11,6 +11,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
