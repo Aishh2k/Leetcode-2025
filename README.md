@@ -32,6 +32,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0015-3sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
