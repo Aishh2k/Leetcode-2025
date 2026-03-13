@@ -15,12 +15,14 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while(fast && fast->next){ // find middle -> slow is at middle
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* prev = NULL;  // reversing from middle
-        ListNode* temp;
+
+        ListNode* prev = NULL;
+        ListNode* temp = slow;
+
         while(slow){
             temp = slow->next;
             slow->next = prev;
@@ -28,15 +30,20 @@ public:
             slow = temp;
         }
 
+        //prev is head of reversed
+        temp = head;
+
         while(prev){
-            if(prev->val != head->val){
+            if(temp->val != prev->val){
                 return false;
             }
+            temp = temp->next;
             prev = prev->next;
-            head = head->next;
         }
-
         return true;
+
+
+
         
     }
 };
