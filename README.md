@@ -9,6 +9,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0024-swap-nodes-in-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0086-partition-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
