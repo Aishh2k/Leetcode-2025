@@ -16,21 +16,14 @@ public:
         }
 
         ListNode* temp = head;
-
-        while(temp){
-            ListNode* iter = temp->next;
-            ListNode* prev = NULL;
-            while(iter && (temp->val == iter->val)){
-                prev = iter;
-                iter = iter->next;
+        while(cur && cur->next){
+            if(cur->val == cur->next->val){
+                cur->next = cur->next->next;
+            }else{
+                cur = cur->next;
             }
-            temp->next = iter;
-            if(prev){
-                prev->next = NULL;
-            }
-
-            temp = temp->next;
         }
+       
 
         return head;
     }
