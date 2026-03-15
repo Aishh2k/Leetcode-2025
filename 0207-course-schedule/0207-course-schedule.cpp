@@ -1,29 +1,30 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> inD(numCourses, 0);
-        vector<vector<int>> graph(numCourses);
-
-        for (auto i : prerequisites) {
-            graph[i[1]].push_back(i[0]);
-            inD[i[0]]++;
+    bool canFinish(int numCourses, vector<vector<int>>& p) {
+        vector < vector<int>> graph(numCourses);
+        vector<int> inD(numCourses, 0); // number of preq for each course
+                                        // b->a (a,b)
+        for (auto c : p) {
+            graph[c[1]].push_back(c[0]); // graph[c] courses that becomes
+                                         // available after you take c
+            inD[c[0]]++;
         }
 
         queue<int> q;
 
-        for(int i =0;i<numCourses;i++){
-            if(inD[i]==0){
-                q.push(i);
+        for (int i = 0; i < numCourses; i++) {
+            if (inD[i] == 0) {
+                q.push(i); // b;
             }
         }
 
         int taken = 0;
+
         while(!q.empty()){
-            int course = q.front();
+            int c = q.front();
             q.pop();
             taken++;
-
-            for(int nei: graph[course]){
+            for(int nei: graph[c]){
                 inD[nei]--;
                 if(inD[nei]==0){
                     q.push(nei);
