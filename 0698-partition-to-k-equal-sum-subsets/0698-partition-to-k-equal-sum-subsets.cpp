@@ -12,6 +12,7 @@ public:
         }
         
         for(int j =i;j<nums.size();j++){
+            
             if(visited[j] || (curSum + nums[j]) > target || (j>0 && nums[j] == nums[j-1]) && !visited[j-1]){
                 continue;
             }
@@ -20,6 +21,7 @@ public:
                 return true;
             }
             visited[j] = false;
+    
         }
         return false;
     }
