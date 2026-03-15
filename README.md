@@ -14,6 +14,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
@@ -30,6 +31,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Two Pointers
