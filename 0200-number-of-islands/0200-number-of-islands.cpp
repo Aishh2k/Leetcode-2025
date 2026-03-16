@@ -1,34 +1,28 @@
 class Solution {
 public:
-    void mark(vector<vector<char>>& grid, int i, int j) {
-
-        if (i < 0 || j < 0 || i >= grid.size() || j >= grid[0].size() ||
-            grid[i][j] != '1') {
+    void dfs(int i, int j, vector<vector<char>>&grid){
+        if(i>=grid.size() || j>= grid[0].size() || i<0 || j<0 || grid[i][j] != '1'){
             return;
         }
-        else {
-            grid[i][j] = '*';
-            mark(grid, i + 1, j);
-            mark(grid, i, j + 1);
-            mark(grid, i - 1, j);
-            mark(grid, i, j - 1);
-        }
-    }
+        grid[i][j] = '*';
 
+        dfs(i+1,j,grid);
+        dfs(i,j+1,grid);
+        dfs(i-1,j,grid);
+        dfs(i,j-1,grid);
+    }
     int numIslands(vector<vector<char>>& grid) {
-        int count = 0;
-        for (int i = 0; i < grid.size(); i++) {
-            for (int j = 0; j < grid[0].size(); j++) {
-                if (grid[i][j] == '1') {
-                    mark(grid, i, j);
-                    count++;
+        int res = 0;
+        for(int i =0;i<grid.size();i++){
+            for(int j =0;j<grid[0].size();j++){
+                if(grid[i][j] == '1'){
+                    res++;
+                    dfs(i,j,grid);
                 }
             }
         }
 
-        return count;
+        return res;
+        
     }
 };
-
-// * * 0
-// * * *
