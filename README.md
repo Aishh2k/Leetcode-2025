@@ -29,6 +29,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -209,12 +213,14 @@ Collection of LeetCode questions used to ace interviews!
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -226,4 +232,8 @@ Collection of LeetCode questions used to ace interviews!
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
