@@ -167,6 +167,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,11 +209,13 @@ Collection of LeetCode questions used to ace interviews!
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
