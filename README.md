@@ -44,6 +44,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0031-next-permutation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0005-longest-palindromic-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
