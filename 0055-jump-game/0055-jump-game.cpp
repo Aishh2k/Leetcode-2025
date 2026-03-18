@@ -10,7 +10,9 @@ public:
             if(jump >= nums.size()-1){
                 return true;
             }
-            i++;
+            if(i<jump){
+                i++;
+            }
         }
 
         return false;
