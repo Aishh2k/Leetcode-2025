@@ -12,6 +12,8 @@ public:
             }
             if(i<jump){
                 i++;
+            }else{
+                return false;
             }
         }
 
