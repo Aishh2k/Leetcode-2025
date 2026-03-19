@@ -139,6 +139,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0203-remove-linked-list-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
