@@ -19,8 +19,14 @@ public:
             if(state == target){
                 return step;
             }
+            int j;
+            for(j =0;j<4;j++){
+                if(state[j] != target[j]){
+                    break;
+                }
+            }
 
-            for(int i =0;i<4;i++){
+            for(int i =j;i<4;i++){
                 string up = state;
                 string down = state;
 
