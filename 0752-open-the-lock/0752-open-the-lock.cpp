@@ -1,50 +1,53 @@
 class Solution {
 public:
     int openLock(vector<string>& deadends, string target) {
-        unordered_set<string> dead(deadends.begin(), deadends.end());
-        unordered_set<string> visited;
-        queue<pair<string, int>> q;
+        unordered_set<string> blocked (deadends.begin(), deadends.end());
 
-        if(dead.count("0000")){
+        if(blocked.count("0000")){
             return -1;
         }
 
-        q.push({"0000",0});
+        queue<pair<string, int>>q;
+        q.push({"0000", 0});
+
+        unordered_set<string> visited;
         visited.insert("0000");
 
         while(!q.empty()){
-            auto [state, step] = q.front();
+            auto [state, val] = q.front();
             q.pop();
-
-            if(state == target){
-                return step;
+            if(state==target){
+                return val;
             }
+
             int j;
             for(j =0;j<4;j++){
                 if(state[j] != target[j]){
                     break;
                 }
             }
-
-            for(int i =j;i<4;i++){
+            
+            for(int i =j;i<state.size();i++){
                 string up = state;
                 string down = state;
 
-                up[i] = state[i]== '0' ? '9' :state[i]-1;
-                down[i] = state[i]=='9'? '0': state[i]+1;
-
-                if(!dead.count(up) && !visited.count(up)){
+                up[i] = (state[i] == '9')? '0': state[i]+1;
+                down[i] = (state[i] == '0')? '9': state[i]-1;
+                
+                if(!visited.count(up) && !blocked.count(up)){
+                    q.push({up,val+1});
                     visited.insert(up);
-                    q.push({up,step+1});
                 }
-                if(!dead.count(down) && !visited.count(down)){
+                if(!visited.count(down) && !blocked.count(down)){
+                    q.push({down,val+1});
                     visited.insert(down);
-                    q.push({down,step+1});
                 }
-            }
+            } 
         }
 
         return -1;
         
     }
 };
+
+
