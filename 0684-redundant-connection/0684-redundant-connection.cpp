@@ -1,7 +1,7 @@
 class Solution {
 public:
     int find(int node, vector<int>&parent) {
-        if (node != parent[node]) {
+        while(node != parent[node]) {
             parent[node] = parent[parent[node]];
             node = parent[node];
         }
@@ -17,11 +17,13 @@ public:
         for (auto edge : edges) {
             int u = edge[0];
             int v = edge[1];
-            if (find(u, parent) == find(v, parent)) {
+
+            int root1 = find(u, parent);
+            int root2 = find(v, parent);
+            if ( root1 == root2) {
                 return edge;
-            } else {
-                parent[v] = u;
             }
+            parent[root2] = root1;
         }
 
         return {-1, -1};
