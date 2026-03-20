@@ -1,52 +1,52 @@
-struct Node {
-    int k;
-    int v;
-    int f;
+class Node{
+    public:
+        int k;
+        int v;
+        int f;
+        Node* next;
+        Node* prev;
 
-    Node* next;
-    Node* prev;
-    Node(int key, int value){
-        k = key;
-        v = value;
-        f = 1;
-    }
+        Node(int key, int val){
+            k = key;
+            v = val;
+            f = 1;
+            next = NULL;
+            prev = NULL;
+        }
 };
 
 class List{
-    public:
-        Node* head = new Node(-1,-1);
-        Node* tail = new Node(-1,-1);
+public:
+    Node* head = new Node(-1,-1);
+    Node* tail = new Node(-1,-1);
 
     List(){
         head->next = tail;
-        tail->prev = head;
+        tail->next = head;
     }
-
-    void addNode(Node* node) {
+    void deleteNode(Node* node){
+        Node* next = node->next;
+        Node* prev = node->prev;
+        next->prev = prev;
+        prev->next = next;
+    }
+    void addNode(Node* node){
         Node* temp = head->next;
-        head->next = node;
-        node->prev = head;
         node->next = temp;
         temp->prev = node;
-    }
-
-    void deleteNode(Node* node) {
-        Node* delPrev = node->prev;
-        Node* delNext = node->next;
-        delPrev->next = delNext;
-        delNext->prev = delPrev;
+        head->next = node;
+        node->prev = head;
     }
 };
 
 class LFUCache {
 public:
+    unordered_map<int, List> freqMap;
+    unordered_map<int, Node*> accessMap;
+    int cap;
     int minFreq;
-    int maxCapacity;
-    unordered_map<int, Node*> mp; // access map
-    unordered_map<int, List> freqMap; // freq map
-
     LFUCache(int capacity) {
-        maxCapacity = capacity;
+        cap = capacity;
         minFreq = 0;
     }
 
@@ -56,49 +56,49 @@ public:
 
         if(freqMap[freq].head->next == freqMap[freq].tail){
             freqMap.erase(freq);
-            if(minFreq == freq){
+            if(minFreq==freq){
                 minFreq++;
             }
         }
 
         node->f++;
-        freqMap[++freq].addNode(node);
+        freqMap[node->f].addNode(node);
     }
     
     int get(int key) {
-        if(mp.find(key) != mp.end()){
-            Node* node = mp[key];
+        if(accessMap.find(key) != accessMap.end()){
+            Node* node = accessMap[key];
             updateFreq(node);
-            return node->v;
-        }else{
-            return -1;
+            return(node->v);
         }
+        return -1;
     }
     
     void put(int key, int value) {
-        if(mp.find(key) != mp.end()){ // already exists
-            Node* node = mp[key];
+
+        if(accessMap.find(key) != accessMap.end()){
+            Node* node = accessMap[key];
             node->v = value;
             updateFreq(node);
             return;
         }
 
-        if(mp.size() == maxCapacity){ // evict LFU
-            Node* node = freqMap[minFreq].tail;
-            mp.erase(node->prev->k);
-            freqMap[minFreq].deleteNode(node->prev);
+        if(accessMap.size()==cap){
+            Node* node = freqMap[minFreq].tail->prev;
+            freqMap[minFreq].deleteNode(node);
+            accessMap.erase(node->k);
         }
 
         Node* node = new Node(key, value);
-        mp[key] = node;
-        freqMap[1].addNode(node);
-        minFreq = 1;  
+        accessMap[key] = node;
+        freqMap[node->f].addNode(node);
+        minFreq = 1;
     }
 };
 
 /**
- * Your LFUCache object will be instantiated and called as such:
- * LFUCache* obj = new LFUCache(capacity);
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
  * int param_1 = obj->get(key);
  * obj->put(key,value);
  */
