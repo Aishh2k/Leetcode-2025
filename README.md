@@ -185,6 +185,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +232,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
@@ -238,6 +241,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
