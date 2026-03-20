@@ -1,33 +1,29 @@
 class Solution {
 public:
-    bool dfs(int u, int v, unordered_map<int, vector<int>>& graph, unordered_set<int> & visited) {
-        if (u == v) {
-            return true;
+    int find(int node, vector<int>&parent) {
+        if (node != parent[node]) {
+            parent[node] = parent[parent[node]];
+            node = parent[node];
         }
-        visited.insert(u);
-        for (auto nei : graph[u]) {
-            if(!visited.count(nei)){
-                if(dfs(nei,v, graph, visited)){
-                    return true;
-                }
+        return node;
+    }
+
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        vector<int> parent(edges.size() + 1);
+        for (int i = 1; i <= edges.size(); i++) {
+            parent[i] = i;
+        }
+
+        for (auto edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            if (find(u, parent) == find(v, parent)) {
+                return edge;
+            } else {
+                parent[v] = u;
             }
         }
 
-        return false;
-    }
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> graph;
-        for (int i = 0; i < edges.size(); i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
-            unordered_set<int> visited;
-            if (graph.size()!=0 && dfs(u, v, graph, visited)) {
-                return {u,v};
-            } else {
-                graph[u].push_back(v);
-                graph[v].push_back(u);
-            }
-        }
-        return {-1,-1};
+        return {-1, -1};
     }
 };
