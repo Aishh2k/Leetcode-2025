@@ -63,6 +63,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/Aishh2k/Leetcode-2025/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0011-container-with-most-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/Aishh2k/Leetcode-2025/tree/main/0134-gas-station/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
