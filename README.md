@@ -53,6 +53,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Aishh2k/Leetcode-2025/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aishh2k/Leetcode-2025/tree/main/0075-sort-colors/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Aishh2k/Leetcode-2025/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
