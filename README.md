@@ -37,6 +37,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
@@ -277,4 +280,12 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
