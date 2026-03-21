@@ -8,6 +8,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0020-valid-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
@@ -36,6 +38,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Array
