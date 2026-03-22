@@ -23,29 +23,28 @@ public:
         pq.push({0, 0}); // (cost 0, node 0)
 
         while (!pq.empty()) {
-            auto [c, a] = pq.top();
+            auto [cur_dist, cur_node] = pq.top();
             pq.pop();
 
-            if(c>d[a]){
-                continue;
-            }
-            if (a == n - 1) {
-                return c;
+            // if(c>d[a]){ // old cost which is not usefull
+            //     continue;
+            // }
+
+            if (cur_node == n - 1) {
+                return cur_dist;
             }
 
-            for (auto nei : graph[a]) {
-                if (d[a] != INT_MAX && d[a] + nei.second < d[nei.first]) {
-                    d[nei.first] =
-                        min(d[nei.first], nei.second + d[a]);
-                    pq.push({d[nei.first], nei.first});
+            for (auto [nei_node, nei_dist] : graph[cur_node]) {
+                if (cur_dist + nei_dist < d[nei_node]) {
+                    d[nei_node] = cur_dist + nei_dist;
+                    pq.push({d[nei_node], nei_node});
                 }
             }
 
-            for (auto nei : rev[a]) {
-                if (d[a] != INT_MAX && d[a] + nei.second < d[nei.first]) {
-                    d[nei.first] =
-                        min(d[nei.first], nei.second + d[a]);
-                    pq.push({d[nei.first], nei.first});
+            for (auto [nei_node, nei_dist] : rev[cur_node]) {
+                if (cur_dist + nei_dist < d[nei_node]) {
+                    d[nei_node] = cur_dist + nei_dist;
+                    pq.push({d[nei_node], nei_node});
                 }
             }
         }
