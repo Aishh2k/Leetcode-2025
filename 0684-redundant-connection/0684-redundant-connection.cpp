@@ -15,10 +15,14 @@ public:
         for (auto i : edges) {
             int a = i[0];
             int b = i[1];
-            if (find(a) == find(b)) {
+
+            int ra = find(a);
+            int rb = find(b);
+
+            if (ra == rb) {
                 return i;
             } else {
-                root[find(b)] = find(a);
+                root[rb] = ra;
             }
         }
         return {-1,-1};
