@@ -22,40 +22,34 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-
         if(node == NULL){
-            return node;
+            return NULL;
         }
-
-        unordered_map<Node*, Node*> mp;
+        queue<Node*>q;
         unordered_set<Node*> visited;
-        stack<Node*> stk;
-
-        stk.push(node);
+        unordered_map<Node*, Node*>mp;
         visited.insert(node);
+        q.push(node);
+        mp[node] = new Node(node->val);
 
-        while(!stk.empty()){
-            Node* cur = stk.top();
-            stk.pop();
-            mp[cur] = new Node(cur->val);
-
-            for(Node* nei : cur->neighbors){
-                if(!visited.count(nei)){
-                    visited.insert(nei);
-                    stk.push(nei);
+        while(!q.empty()){
+            Node* node = q.front();
+            q.pop();
+            for(Node* n: node->neighbors){
+                if(!visited.count(n)){
+                    mp[n] = new Node(n->val);
+                    visited.insert(n);
+                    q.push(n);
                 }
             }
         }
 
-        for(auto n : mp){
-            for(Node* nei : n.first->neighbors){
-                Node* new_nei = mp[nei];
-                n.second->neighbors.push_back(new_nei);
+        for(Node* n: visited){
+            for(Node* nei: n->neighbors){
+                mp[n]->neighbors.push_back(mp[nei]);
             }
         }
 
-        return(mp[node]);
-
-        
+        return mp[node];
     }
 };
