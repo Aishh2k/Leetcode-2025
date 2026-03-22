@@ -247,6 +247,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -261,6 +262,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Topological Sort
@@ -290,6 +293,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
+| [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -297,6 +301,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
