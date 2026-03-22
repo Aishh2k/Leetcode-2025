@@ -26,9 +26,9 @@ public:
             auto [cur_dist, cur_node] = pq.top();
             pq.pop();
 
-            // if(c>d[a]){ // old cost which is not usefull
-            //     continue;
-            // }
+            if(cur_dist>d[cur_node]){ // old cost which is not usefull
+                continue;
+            }
 
             if (cur_node == n - 1) {
                 return cur_dist;
