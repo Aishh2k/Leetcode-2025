@@ -1,31 +1,26 @@
 class Solution {
 public:
-    int find(int node, vector<int>&parent) {
-        while(node != parent[node]) {
-            parent[node] = parent[parent[node]];
-            node = parent[node];
+    vector<int> root;
+    int find(int a) {
+        if (root[a] != a) {
+            root[a] = find(root[a]);
         }
-        return node;
+        return root[a];
     }
-
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        vector<int> parent(edges.size() + 1);
-        for (int i = 1; i <= edges.size(); i++) {
-            parent[i] = i;
+        for (int i = 0; i <= edges.size(); i++) {
+            root.push_back(i);
         }
 
-        for (auto edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            int root1 = find(u, parent);
-            int root2 = find(v, parent);
-            if ( root1 == root2) {
-                return edge;
+        for (auto i : edges) {
+            int a = i[0];
+            int b = i[1];
+            if (find(a) == find(b)) {
+                return i;
+            } else {
+                root[b] = find(a);
             }
-            parent[root2] = root1;
         }
-
-        return {-1, -1};
+        return {-1,-1};
     }
 };
