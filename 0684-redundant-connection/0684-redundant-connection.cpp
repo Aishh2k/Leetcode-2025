@@ -18,7 +18,7 @@ public:
             if (find(a) == find(b)) {
                 return i;
             } else {
-                root[b] = find(a);
+                root[find(b)] = find(a);
             }
         }
         return {-1,-1};
