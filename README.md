@@ -57,6 +57,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Aishh2k/Leetcode-2025/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aishh2k/Leetcode-2025/tree/main/0075-sort-colors/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
@@ -322,6 +324,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
