@@ -51,6 +51,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0014-longest-common-prefix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Backtracking
