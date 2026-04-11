@@ -11,14 +11,18 @@ public:
 
         for(char c: s){
             rows[curRow] +=c;
-
             if(curRow == 0){
                 goingDown = true;
             }else if(curRow==numRows-1){
                 goingDown = false;
             }
 
-            curRow += goingDown ? 1: -1;
+            if(goingDown){
+                curRow++;
+            }else{
+                curRow--;
+            }
+            
         }
 
         string ans = "";
