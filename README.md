@@ -195,6 +195,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
