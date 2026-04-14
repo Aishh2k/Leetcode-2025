@@ -88,6 +88,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
