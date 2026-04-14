@@ -8,6 +8,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
@@ -29,6 +30,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Aishh2k/Leetcode-2025/tree/main/0006-zigzag-conversion/) | Medium |
+| [0013-roman-to-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0022-generate-parentheses/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0002-add-two-numbers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
