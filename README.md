@@ -141,6 +141,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
