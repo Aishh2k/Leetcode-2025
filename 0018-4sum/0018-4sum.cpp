@@ -17,12 +17,11 @@ public:
                 if(j>i+1 && nums[j] == nums[j-1]){
                     continue;
                 }
+                long long rem = target - nums[i] - nums[j];
                 int r = nums.size()-1;
                 int l = j+1;
-
                 while(l<r){
-                    int sum = nums[i] + nums[j] + nums[l] + nums[r];
-                    if(sum==target){
+                    if((nums[r] + nums[l]) == rem){
                         ans.push_back({nums[i], nums[j], nums[l], nums[r]});
                         l++;
                         r--;
@@ -32,7 +31,7 @@ public:
                         while(r<nums.size()-1 && l<r && nums[r] == nums[r+1]){
                             r--;
                         }
-                    }else if(sum>target){
+                    }else if((nums[r] + nums[l])>rem){
                         r--;
                     }else{
                         l++;
