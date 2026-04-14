@@ -1,33 +1,36 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& p) {
-        vector < vector<int>> graph(numCourses);
-        vector<int> inD(numCourses, 0); // number of preq for each course
-                                        // b->a (a,b)
-        for (auto c : p) {
-            graph[c[1]].push_back(c[0]); // graph[c] courses that becomes
-                                         // available after you take c
-            inD[c[0]]++;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // [0,1] -> 1->0 
+        // [2,1] -> 1->2
+        // [a,b] -> b->a
+
+        unordered_map<int,vector<int>> graph;
+        vector<int> inD(numCourses,0);
+
+        for(auto p : prerequisites){
+            graph[p[1]].push_back(p[0]); //if i do 1 then i can do 0, 2
+            inD[p[0]]++;
         }
 
         queue<int> q;
-
-        for (int i = 0; i < numCourses; i++) {
-            if (inD[i] == 0) {
-                q.push(i); // b;
+        for(int i =0;i<numCourses;i++){
+            if(inD[i] == 0){
+                q.push(i);
             }
         }
-
         int taken = 0;
+
 
         while(!q.empty()){
             int c = q.front();
             q.pop();
             taken++;
-            for(int nei: graph[c]){
-                inD[nei]--;
-                if(inD[nei]==0){
-                    q.push(nei);
+
+            for(int i: graph[c]){
+                inD[i]--;
+                if(inD[i] == 0){
+                    q.push(i);
                 }
             }
         }
@@ -37,5 +40,9 @@ public:
         }else{
             return false;
         }
+
+
+
+        
     }
 };
