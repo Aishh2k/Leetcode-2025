@@ -75,6 +75,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0061-rotate-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Aishh2k/Leetcode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -160,6 +162,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aishh2k/Leetcode-2025/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
