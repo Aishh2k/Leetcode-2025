@@ -26,12 +26,10 @@ public:
 
         for(int i =0;i<n;i++){
             if(board[i][0] == 'O'){
-                board[i][0] = 'S';
                 dfs(i,0,board);
             }
 
             if(board[i][m-1] == 'O'){
-                board[i][m-1] = 'S';
                 dfs(i,m-1,board);
             }
         }
