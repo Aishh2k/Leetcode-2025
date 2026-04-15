@@ -1,20 +1,18 @@
 class Solution {
 public:
-    vector<string> ans;
-    void backtrack(string digits, int i, string sol, int n, unordered_map<char, string> mp){
-        if(i==n){
-            ans.push_back(sol);
+    vector<string> res;
+    void dfs(string s, int i, string digits, unordered_map<char, string>mp){
+        if(s.size() == digits.size()){
+            res.push_back(s);
             return;
         }
-        for(auto c : mp[digits[i]]){
-            backtrack(digits, i+1, sol + c, n, mp);
+
+        for(char c: mp[digits[i]]){
+            dfs(s+c, i+1,digits,mp);
         }
     }
     vector<string> letterCombinations(string digits) {
         unordered_map<char, string> mp;
-        int i =0;
-        string str = "";
-
         mp['2'] = "abc";
         mp['3'] = "def";
         mp['4'] = "ghi";
@@ -24,8 +22,8 @@ public:
         mp['8'] = "tuv";
         mp['9'] = "wxyz";
 
-        backtrack(digits, i, str, digits.size(), mp);
-        return ans;
-        
+        string s ="";
+        dfs(s,0,digits,mp);
+        return res;
     }
 };
