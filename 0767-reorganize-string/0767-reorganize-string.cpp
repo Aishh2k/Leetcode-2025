@@ -1,40 +1,33 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        unordered_map<char, int> mp;
-        for(auto a: s){
-            mp[a]++;
+        unordered_map<char,int> mp;
+        for(int i =0;i<s.size();i++){
+            mp[s[i]]++;
         }
-
         priority_queue<pair<int, char>> pq;
-        for(auto i: mp){
-            pq.push(make_pair(i.second, i.first));
+        for(auto a: mp){
+            pq.push(make_pair(a.second, a.first));
         }
-
         if(!pq.empty()){
             auto a = pq.top();
-            if(a.first > (s.size()+1)/2){
+            if(a.first>(s.size() +1)/2){
                 return "";
             }
         }
+        string ans = "";
         pair<int, char> temp;
-        string res = "";
-        
+        temp.first = -1;
         while(!pq.empty()){
-            pair<int, char> a = pq.top();
+            auto p = pq.top();
             pq.pop();
-            res += a.second;
-
+            ans += p.second;
             if(temp.first>0){
                 pq.push(temp);
             }
-            temp = a;
-            temp.first -=1;
-
+            temp.first = --p.first;
+            temp.second = p.second;
         }
-
-
-        return res;
-
+        return ans;
     }
 };
