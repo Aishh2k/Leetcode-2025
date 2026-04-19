@@ -11,7 +11,7 @@ public:
         }
         if(!pq.empty()){
             auto a = pq.top();
-            if(a.first>(s.size() +1)/2){
+            if(s.size() - a.first < a.first-1){
                 return "";
             }
         }
