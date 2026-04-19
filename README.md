@@ -26,6 +26,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
+| [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
+| [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Aishh2k/Leetcode-2025/tree/main/0134-gas-station/) | Medium |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +174,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +355,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
+| [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -377,6 +382,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
