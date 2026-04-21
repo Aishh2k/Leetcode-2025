@@ -77,6 +77,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aishh2k/Leetcode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aishh2k/Leetcode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
@@ -260,6 +261,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -342,6 +344,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aishh2k/Leetcode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aishh2k/Leetcode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
