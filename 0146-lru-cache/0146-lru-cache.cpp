@@ -55,6 +55,7 @@ public:
             mp.erase(key);
             addNode(node);
             mp[key] = node;
+            return;
         }
 
         if(mp.size() == cap){
