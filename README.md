@@ -100,6 +100,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -168,6 +169,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Aishh2k/Leetcode-2025/tree/main/0134-gas-station/) | Medium |
+| [0605-can-place-flowers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 ## Sorting
