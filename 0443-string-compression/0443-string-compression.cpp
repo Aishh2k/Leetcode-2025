@@ -8,17 +8,14 @@ public:
         int i =0;
         int write = 0;
         while(i<chars.size()){
-
             char cur = chars[i];
             int count = 0;
-
             while(i<chars.size() && chars[i] == cur){
                 i++;
                 count++;
             }
             chars[write] = cur;
             write++;
-
             if(count>1){
                 string s = to_string(count);
                 for(char c: s){
@@ -26,11 +23,7 @@ public:
                     write++;
                 }
             }
-
         }
-
         return write;
-
-        
     }
 };
