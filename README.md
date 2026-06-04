@@ -48,6 +48,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -238,6 +239,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
