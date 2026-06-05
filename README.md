@@ -60,6 +60,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/Aishh2k/Leetcode-2025/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Aishh2k/Leetcode-2025/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
