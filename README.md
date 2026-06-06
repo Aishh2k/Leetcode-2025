@@ -52,6 +52,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Aishh2k/Leetcode-2025/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
