@@ -18,9 +18,7 @@ public:
                     l++;
                 }
             }
-
-            int len = r-l;
-            maxLength = max(maxLength, len);
+            maxLength = max(maxLength, r-l);
             r++;
         }
         return maxLength;
