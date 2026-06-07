@@ -5,16 +5,15 @@ public:
         for(int i : nums){
             sum += i;
         }
-
         int left = 0;
-        if(left == (sum - nums[0])){
-            return 0;
-        }
-        for(int i =1;i<nums.size();i++){
-            left += nums[i-1];
-            if(left == (sum - left - nums[i])){
+        int right = 0;
+    
+        for(int i =0;i<nums.size();i++){
+            right = sum - nums[i]-left;
+            if(right == left){
                 return i;
             }
+            left += nums[i];
         }
         return -1;
         
