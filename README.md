@@ -117,6 +117,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0643-maximum-average-subarray-i](https://github.com/Aishh2k/Leetcode-2025/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0724-find-pivot-index](https://github.com/Aishh2k/Leetcode-2025/tree/main/0724-find-pivot-index/) | Easy |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aishh2k/Leetcode-2025/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Aishh2k/Leetcode-2025/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Aishh2k/Leetcode-2025/tree/main/1732-find-the-highest-altitude/) | Easy |
