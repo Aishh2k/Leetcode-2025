@@ -160,6 +160,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0328-odd-even-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
