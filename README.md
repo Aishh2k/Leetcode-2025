@@ -161,6 +161,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0155-min-stack/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -245,6 +247,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
