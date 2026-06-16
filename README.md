@@ -363,6 +363,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -380,6 +381,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
@@ -392,6 +394,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Topological Sort
