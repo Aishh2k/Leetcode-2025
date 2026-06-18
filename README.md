@@ -28,6 +28,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/Aishh2k/Leetcode-2025/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
@@ -273,6 +276,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Aishh2k/Leetcode-2025/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Doubly-Linked List
@@ -494,4 +498,5 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
