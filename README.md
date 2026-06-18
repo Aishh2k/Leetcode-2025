@@ -20,6 +20,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0134-gas-station](https://github.com/Aishh2k/Leetcode-2025/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aishh2k/Leetcode-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -446,6 +449,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +467,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
