@@ -62,6 +62,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0649-dota2-senate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0649-dota2-senate/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0392-is-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Aishh2k/Leetcode-2025/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0682-baseball-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
@@ -498,6 +501,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0054-spiral-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Ordered Set
