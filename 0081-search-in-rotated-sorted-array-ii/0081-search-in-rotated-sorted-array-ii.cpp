@@ -11,7 +11,7 @@ public:
                 return true;
             }else if(nums[l] ==  nums[mid]){
                 l++;
-            }else if(nums[l] <= nums[mid]){ // left is sorted
+            }else if(nums[l] < nums[mid]){ // left is sorted
                 if(target >= nums[l] && target < nums[mid]){
                     r = mid-1;
                 }else{
