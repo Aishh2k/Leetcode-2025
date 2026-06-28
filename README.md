@@ -214,6 +214,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Aishh2k/Leetcode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0146-lru-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Aishh2k/Leetcode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
@@ -486,6 +488,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aishh2k/Leetcode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0649-dota2-senate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aishh2k/Leetcode-2025/tree/main/0933-number-of-recent-calls/) | Easy |
