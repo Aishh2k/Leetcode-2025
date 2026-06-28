@@ -56,6 +56,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0443-string-compression](https://github.com/Aishh2k/Leetcode-2025/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0155-min-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Aishh2k/Leetcode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0143-reorder-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0394-decode-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
