@@ -147,6 +147,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -250,6 +252,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0649-dota2-senate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Linked List
