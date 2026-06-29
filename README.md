@@ -122,6 +122,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aishh2k/Leetcode-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0151-reverse-words-in-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aishh2k/Leetcode-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -332,6 +334,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0189-rotate-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
