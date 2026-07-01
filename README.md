@@ -145,6 +145,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0560-subarray-sum-equals-k](https://github.com/Aishh2k/Leetcode-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Aishh2k/Leetcode-2025/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
+| [0622-design-circular-queue](https://github.com/Aishh2k/Leetcode-2025/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Aishh2k/Leetcode-2025/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
@@ -306,6 +307,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0328-odd-even-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
+| [0622-design-circular-queue](https://github.com/Aishh2k/Leetcode-2025/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -319,6 +321,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
+| [0622-design-circular-queue](https://github.com/Aishh2k/Leetcode-2025/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0901-online-stock-span](https://github.com/Aishh2k/Leetcode-2025/tree/main/0901-online-stock-span/) | Medium |
@@ -524,6 +527,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0225-implement-stack-using-queues](https://github.com/Aishh2k/Leetcode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0622-design-circular-queue](https://github.com/Aishh2k/Leetcode-2025/tree/main/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aishh2k/Leetcode-2025/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
