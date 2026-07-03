@@ -157,6 +157,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
+| [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0735-asteroid-collision](https://github.com/Aishh2k/Leetcode-2025/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
+| [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Aishh2k/Leetcode-2025/tree/main/0901-online-stock-span/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -251,6 +253,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Aishh2k/Leetcode-2025/tree/main/0901-online-stock-span/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -283,6 +286,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
