@@ -10,6 +10,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishh2k/Leetcode-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/Aishh2k/Leetcode-2025/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Aishh2k/Leetcode-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aishh2k/Leetcode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
@@ -102,6 +103,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0031-next-permutation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aishh2k/Leetcode-2025/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Aishh2k/Leetcode-2025/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aishh2k/Leetcode-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
@@ -485,6 +487,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Aishh2k/Leetcode-2025/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aishh2k/Leetcode-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aishh2k/Leetcode-2025/tree/main/0074-search-a-2d-matrix/) | Medium |
