@@ -21,14 +21,15 @@ public:
                     }
                 }
 
-                int boxRow = (i / 3) * 3 + (j / 3);
-                int boxCol = (i % 3) * 3 + (j % 3);
-                if (board[boxRow][boxCol] != '.') {
+                int rowStart = (i / 3) * 3;
+                int colStart = (i % 3) * 3;
+
+                if (board[rowStart + j/3][colStart + j%3] != '.') {
                     if (boxSet.count(
-                            board[boxRow][boxCol])) { // box by box check
+                            board[rowStart + j/3][colStart + j%3])) { // box by box check
                         return false;
                     } else {
-                        boxSet.insert(board[boxRow][boxCol]);
+                        boxSet.insert(board[rowStart + j/3][colStart + j%3]);
                     }
                 }
             }
