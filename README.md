@@ -162,6 +162,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Linked List
@@ -512,6 +514,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
@@ -526,10 +529,12 @@ Collection of LeetCode questions used to ace interviews!
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -572,4 +577,16 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
