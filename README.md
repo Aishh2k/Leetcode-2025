@@ -34,6 +34,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -336,6 +338,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0901-online-stock-span](https://github.com/Aishh2k/Leetcode-2025/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aishh2k/Leetcode-2025/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -404,6 +407,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0209-minimum-size-subarray-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Backtracking
