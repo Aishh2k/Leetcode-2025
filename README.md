@@ -35,6 +35,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aishh2k/Leetcode-2025/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -483,6 +485,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Topological Sort
