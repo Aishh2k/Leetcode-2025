@@ -1,49 +1,40 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // [0,1] -> 1->0
-        // [2,1] -> 1->2
-        // [0,3] -> 3->0
-        // num courses = 3 : 0 1 2
-                          // 1 0 1
-
-        //q = 1
-
+    bool canFinish(int numCourses, vector<vector<int>>& p) {
         unordered_map<int, vector<int>> graph;
         vector<int> inD(numCourses, 0);
 
-        for (auto p : prerequisites) {
-            int course = p[0];
-            int prereq = p[1];
-            graph[prereq].push_back(course); // if i do 1 then i can do 0, 2
-            inD[course]++;                  
+        for(auto i: p){
+            graph[i[1]].push_back(i[0]);
+            inD[i[0]]++;
         }
 
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (inD[i] == 0) {
-                q.push(i);
+        queue<int> take;
+
+        for(int i =0;i<numCourses;i++){
+            if(inD[i] == 0){
+                take.push(i);
             }
         }
-        int taken = 0;
+        int finish = 0;
+        while(!take.empty()){
+            int a = take.front();
+            take.pop();
+            finish++;
 
-        while (!q.empty()) {
-            int c = q.front();
-            q.pop();
-            taken++;
-
-            for (int i : graph[c]) {
+            for(int i: graph[a]){
                 inD[i]--;
-                if (inD[i] == 0) {
-                    q.push(i);
+                if(inD[i] == 0){
+                    take.push(i);
                 }
             }
         }
 
-        if (taken == numCourses) {
+        if(finish == numCourses){
             return true;
-        } else {
-            return false;
         }
+
+        return false;
+        
     }
 };
