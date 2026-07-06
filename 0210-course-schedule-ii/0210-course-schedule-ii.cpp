@@ -1,49 +1,42 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        // [0,1] -> 1->0
-        // [2,1] -> 1->2
-        // num courses = 3 : 0 1 2
-        // 1 0 1
-        // [a,b] -> b->a
-
+    vector<int> findOrder(int numCourses, vector<vector<int>>& p) {
         unordered_map<int, vector<int>> graph;
         vector<int> inD(numCourses, 0);
 
-        for (auto p : prerequisites) {
-            int course = p[0];
-            int prereq = p[1];
-            graph[prereq].push_back(course); // if i do 1 then i can do 0, 2
-            inD[course]++;                   //
+        for(auto i: p){
+            graph[i[1]].push_back(i[0]);
+            inD[i[0]]++;
         }
 
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (inD[i] == 0) {
-                q.push(i);
+        queue<int> take;
+
+        for(int i =0;i<numCourses;i++){
+            if(inD[i] == 0){
+                take.push(i);
             }
         }
-        vector<int> order;
-        int taken = 0;
+        int finish = 0;
+        vector<int> ans;
+        while(!take.empty()){
+            int a = take.front();
+            take.pop();
+            ans.push_back(a);
+            finish++;
 
-        while (!q.empty()) {
-            int c = q.front();
-            order.push_back(c);
-            q.pop();
-            taken++;
-
-            for (int i : graph[c]) {
+            for(int i: graph[a]){
                 inD[i]--;
-                if (inD[i] == 0) {
-                    q.push(i);
+                if(inD[i] == 0){
+                    take.push(i);
                 }
             }
         }
 
-        if (taken == numCourses) {
-            return order;
-        } else {
+        if(finish == numCourses){
+            return ans;
+        }else{
             return {};
         }
+
     }
 };
