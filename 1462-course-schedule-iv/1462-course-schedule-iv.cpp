@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(int a, int b, unordered_map<int, vector<int>> graph,
+    bool dfs(int a, int b, unordered_map<int, vector<int>>& graph,
              unordered_set<int>& visited) {
         if (a == b) {
             return true;
@@ -8,17 +8,12 @@ public:
         visited.insert(a);
         for(int nei : graph[a]){
             if(!visited.count(nei)){
-                bool val = dfs(nei, b, graph, visited);
-                if(val){
+                if(dfs(nei, b, graph, visited)){
                     return true;
-                }else{
-                    continue;
                 }
             }
         }
-
         return false;
-
     }
     vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& p,
                                      vector<vector<int>>& queries) {
