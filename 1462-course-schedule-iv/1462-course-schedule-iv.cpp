@@ -6,9 +6,9 @@ public:
             return true;
         }
         visited.insert(a);
-        for(int nei : graph[a]){
-            if(!visited.count(nei)){
-                if(dfs(nei, b, graph, visited)){
+        for (int nei : graph[a]) {
+            if (!visited.count(nei)) {
+                if (dfs(nei, b, graph, visited)) {
                     return true;
                 }
             }
@@ -26,14 +26,9 @@ public:
 
         for (auto i : queries) {
             unordered_set<int> visited;
-            if (graph.find(i[0]) == graph.end()) {
-                ans.push_back(false);
-            } else {
-                bool val = dfs(i[0], i[1], graph, visited);
-                ans.push_back(val);
-            }
+            bool val = dfs(i[0], i[1], graph, visited);
+            ans.push_back(val);
         }
-
         return ans;
     }
 };
