@@ -455,6 +455,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Aishh2k/Leetcode-2025/tree/main/1462-course-schedule-iv/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +475,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Aishh2k/Leetcode-2025/tree/main/1462-course-schedule-iv/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,12 +489,14 @@ Collection of LeetCode questions used to ace interviews!
 | [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Aishh2k/Leetcode-2025/tree/main/1462-course-schedule-iv/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0210-course-schedule-ii/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Aishh2k/Leetcode-2025/tree/main/1462-course-schedule-iv/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
