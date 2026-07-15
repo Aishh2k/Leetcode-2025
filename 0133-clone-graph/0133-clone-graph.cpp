@@ -21,35 +21,36 @@ public:
 
 class Solution {
 public:
+    void dfs (Node* node, unordered_set<Node*>& visited, unordered_map<Node*, Node*>&mp){
+        if(visited.count(node)){
+            return;
+        }
+        Node* newNode = new Node(node->val);
+        mp[node] = newNode;
+        visited.insert(node);
+
+        for(Node* nei: node->neighbors){
+            dfs(nei, visited,mp);
+        }
+    }
     Node* cloneGraph(Node* node) {
-        if(node == NULL){
+
+        if(!node){
             return NULL;
         }
-        queue<Node*>q;
+
         unordered_set<Node*> visited;
-        unordered_map<Node*, Node*>mp;
-        visited.insert(node);
-        q.push(node);
-        mp[node] = new Node(node->val);
+        unordered_map<Node*, Node*> mp;
 
-        while(!q.empty()){
-            Node* node = q.front();
-            q.pop();
-            for(Node* n: node->neighbors){
-                if(!visited.count(n)){
-                    mp[n] = new Node(n->val);
-                    visited.insert(n);
-                    q.push(n);
-                }
-            }
-        }
+        dfs(node, visited, mp);
 
-        for(Node* n: visited){
-            for(Node* nei: n->neighbors){
-                mp[n]->neighbors.push_back(mp[nei]);
+        for(auto [oldNode, newNode] : mp){
+            for(Node* nei: oldNode->neighbors){
+                newNode->neighbors.push_back(mp[nei]);
             }
         }
 
         return mp[node];
+        
     }
 };
