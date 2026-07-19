@@ -35,6 +35,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0721-accounts-merge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Aishh2k/Leetcode-2025/tree/main/0901-online-stock-span/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -347,6 +349,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Aishh2k/Leetcode-2025/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aishh2k/Leetcode-2025/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -603,6 +606,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Aishh2k/Leetcode-2025/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
