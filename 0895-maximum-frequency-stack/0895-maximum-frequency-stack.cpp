@@ -1,8 +1,8 @@
 class FreqStack {
 public:
     unordered_map<int, int> freq;
-    unordered_map<int, vector<int>> group; // If multiple numbers have the same frequency, which one was pushed most recently?
     int max_freq;
+    unordered_map<int, vector<int>> group;
 
     FreqStack() {
         max_freq = 0;
@@ -22,7 +22,6 @@ public:
         if(group[max_freq].empty()){
             max_freq--;
         }
-
         return a;
     }
 };
