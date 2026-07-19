@@ -18,9 +18,7 @@ public:
         while(!pq.empty()){
             auto [v, c] = pq.top();
             pq.pop();
-            if(v>0){
-                ans += c;
-            }
+            ans += c;
 
             if(temp.first>0){
                 pq.push({temp.first, temp.second});
