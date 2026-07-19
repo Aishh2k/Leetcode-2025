@@ -41,11 +41,6 @@ public:
                 }
             }
         }
-
-        if (!pq.empty()) {
-            return "";
-        } else {
-            return ans;
-        }
+        return ans;
     }
 };
