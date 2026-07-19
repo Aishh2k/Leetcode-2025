@@ -80,6 +80,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0680-valid-palindrome-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
+| [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +551,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
+| [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
