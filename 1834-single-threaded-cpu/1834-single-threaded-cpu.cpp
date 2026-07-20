@@ -18,7 +18,7 @@ public:
         vector<int> res;
 
         while(idx<n || !pq.empty()){
-            if(pq.empty() && cur_time<T[idx][0]){ //idle cur time is 5 and next availabel task is starting at 20, then you wanna jump to 20
+            if(pq.empty() && idx<n && cur_time<T[idx][0]){ //idle cur time is 5 and next availabel task is starting at 20, then you wanna jump to 20
                 cur_time = T[idx][0];
             }
 
