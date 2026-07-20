@@ -183,6 +183,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aishh2k/Leetcode-2025/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Two Pointers
@@ -310,6 +311,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +554,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
