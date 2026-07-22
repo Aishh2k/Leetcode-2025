@@ -1,37 +1,41 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<int> dist(n+1,INT_MAX);
-        dist[k]= 0;
-        vector<vector<pair<int,int>>> graph(n+1);
+        vector<int> dist(n + 1, INT_MAX);
+        dist[k] = 0;
+        unordered_map<int, vector<pair<int, int>>> graph;
 
-        for(auto t:times){
-            graph[t[0]].push_back({t[1], t[2]});
+        for (auto i : times) {
+            graph[i[0]].push_back(make_pair(i[1], i[2]));
         }
 
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
-        q.push({0,k});
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        pq.push({0, k});
 
-        while(!q.empty()){
-            auto [cur_dist, node ] = q.top();
-            q.pop();
-            for(auto [nei, nei_dist]: graph[node]){
-                if(cur_dist + nei_dist < dist[nei]){
-                    dist[nei] = min(dist[nei], cur_dist + nei_dist);
-                    q.push({dist[nei], nei});
+        while (!pq.empty()) {
+            auto [cur_dist, node] = pq.top();
+            pq.pop();
+
+            if(cur_dist > dist[node]){
+                continue;
+            }
+
+            for (auto [n, c] : graph[node]) {
+                if(cur_dist + c < dist[n]){
+                    dist[n] =  cur_dist + c;
+                    pq.push({dist[n], n});
                 }
             }
         }
-        int res = 0;
-        for(int i =1;i<=n;i++){
+        int m = 0;
+        for(int i =1;i<dist.size();i++){
             if(dist[i] == INT_MAX){
                 return -1;
             }
 
-            res = max(res,dist[i]);
+            m = max(dist[i], m);
         }
 
-        return res;
-        
+        return m;
     }
 };
