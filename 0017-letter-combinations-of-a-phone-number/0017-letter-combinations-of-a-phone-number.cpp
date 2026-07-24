@@ -1,18 +1,19 @@
 class Solution {
 public:
-    vector<string> res;
-    void dfs(string s, int i, string digits, unordered_map<char, string>mp){
-        if(s.size() == digits.size()){
-            res.push_back(s);
+    void dfs(int i, string digits, string& temp, vector<string>& res, unordered_map<char, string>& mp){
+        if(temp.size() == digits.size()){
+            res.push_back(temp);
             return;
         }
 
         for(char c: mp[digits[i]]){
-            dfs(s+c, i+1,digits,mp);
+            temp += c;
+            dfs(i+1, digits, temp, res, mp);
+            temp.pop_back();
         }
     }
     vector<string> letterCombinations(string digits) {
-        unordered_map<char, string> mp;
+        unordered_map<char, string>mp;
         mp['2'] = "abc";
         mp['3'] = "def";
         mp['4'] = "ghi";
@@ -22,8 +23,9 @@ public:
         mp['8'] = "tuv";
         mp['9'] = "wxyz";
 
-        string s ="";
-        dfs(s,0,digits,mp);
+        vector<string> res;
+        string temp = "";
+        dfs(0, digits, temp, res, mp);
         return res;
     }
 };
