@@ -1,7 +1,7 @@
 class Solution {
 public:
     void dfs(vector<vector<int>>& res, vector<int>& nums,
-             vector<int>& temp, vector<bool> visited) {
+             vector<int>& temp, vector<bool>& visited) {
         if (temp.size() == nums.size()) {
             res.push_back(temp);
             return;
