@@ -1,26 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-    void dfs(vector<int> nums, vector<int> res, vector<bool> visited) {
-        if (res.size() == nums.size()) {
-            result.push_back(res);
+    void dfs(vector<vector<int>>& res, vector<int>& nums,
+             vector<int>& temp, vector<bool> visited) {
+        if (temp.size() == nums.size()) {
+            res.push_back(temp);
             return;
         }
 
-        for (int i =0;i<nums.size();i++) {
-            if(!visited[i]){
-                res.push_back(nums[i]);
-                visited[i] = true;
-                dfs(nums, res,visited);
-                visited[i] = false;
-                res.pop_back();
+        for (int j = 0; j < nums.size(); j++) {
+            if (!visited[j]) {
+                temp.push_back(nums[j]);
+                visited[j] = true;
+                dfs(res, nums, temp, visited);
+                visited[j] = false;
+                temp.pop_back();
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> res;
+        vector<vector<int>> res;
+        vector<int> temp;
         vector<bool> visited(nums.size(), false);
-        dfs(nums, res, visited);
-        return result;
+
+        dfs(res, nums, temp, visited);
+        return res;
     }
 };
