@@ -444,6 +444,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0040-combination-sum-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Aishh2k/Leetcode-2025/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/Aishh2k/Leetcode-2025/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
