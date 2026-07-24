@@ -1,29 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-    void backtrack(vector<int> candidates, int target, int i, vector<int> res){
-        if(target == 0){
-            result.push_back(res);
+    void dfs(int i, vector<vector<int>>& res, int sum, vector<int>& nums, int target, vector<int>& temp){
+        if(sum == target){
+            res.push_back(temp);
             return;
         }
-        if(target<0){
+        if(i == nums.size()){
             return;
         }
 
-        if(i>=candidates.size()){
-            return;
+        if(sum + nums[i] <= target){
+            temp.push_back(nums[i]);
+            dfs(i, res, sum + nums[i], nums, target, temp);
+            temp.pop_back();
         }
-        
-        res.push_back(candidates[i]);
-        backtrack(candidates, target-candidates[i], i, res); // take it
-        res.pop_back();
-        backtrack(candidates, target, i+1,res); // dont take it
-
+        dfs(i+1, res, sum, nums, target, temp);
     }
-
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> res;
-        backtrack(candidates, target, 0, res);
-        return result;  
+        vector<vector<int>> res;
+        int sum = 0;
+        vector<int> temp;
+        dfs(0, res, sum, candidates, target, temp);
+        return res;
     }
 };
