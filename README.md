@@ -176,6 +176,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0739-daily-temperatures](https://github.com/Aishh2k/Leetcode-2025/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0853-car-fleet](https://github.com/Aishh2k/Leetcode-2025/tree/main/0853-car-fleet/) | Medium |
+| [0860-lemonade-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
@@ -297,6 +298,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0649-dota2-senate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0860-lemonade-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 ## Sorting
