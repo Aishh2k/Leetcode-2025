@@ -44,6 +44,7 @@ Collection of LeetCode questions used to ace interviews!
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +578,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Aishh2k/Leetcode-2025/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -630,6 +634,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1094-car-pooling](https://github.com/Aishh2k/Leetcode-2025/tree/main/1094-car-pooling/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
