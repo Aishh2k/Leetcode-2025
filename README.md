@@ -180,6 +180,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aishh2k/Leetcode-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0435-non-overlapping-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -596,6 +598,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -609,11 +612,13 @@ Collection of LeetCode questions used to ace interviews!
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/Aishh2k/Leetcode-2025/tree/main/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/Aishh2k/Leetcode-2025/tree/main/0649-dota2-senate/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Aishh2k/Leetcode-2025/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
