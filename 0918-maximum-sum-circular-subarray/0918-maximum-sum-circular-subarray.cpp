@@ -27,14 +27,12 @@ public:
             maxSub = max(maxSub, maxSum);
             minSub = min(minSub, minSum);
         }
+        int cirSum = total - minSub;
 
-        if(maxSub < 0){
+        if(cirSum == 0){
             return maxSub;
         }
 
-        int cirSum = total - minSub;
-
         return max(cirSum, maxSub);
-        
     }
 };
