@@ -1,10 +1,10 @@
 class Solution {
 public:
     string predictPartyVictory(string senate) {
-        queue<int> R, D;
-        int n = senate.size();
+        queue<int> R;
+        queue<int> D;
 
-        for(int i =0;i<n;i++){ // store R and D indices
+        for(int i =0;i<senate.size();i++){
             if(senate[i] == 'R'){
                 R.push(i);
             }else{
@@ -14,18 +14,22 @@ public:
 
         while(!R.empty() && !D.empty()){
             int r = R.front();
-            R.pop();
             int d = D.front();
             D.pop();
+            R.pop();
 
             if(r<d){
-                R.push(r+n);
+                R.push(r+senate.size());
             }else{
-                D.push(d+n);
+                D.push(d+senate.size());
             }
         }
 
-        return R.empty()? "Dire": "Radiant";
+        if(!R.empty()){
+            return "Radiant";
+        }else{
+            return "Dire";
+        }
         
     }
 };
