@@ -683,4 +683,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1115-print-foobar-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1115-print-foobar-alternately/) | Medium |
 <!---LeetCode Topics End-->
