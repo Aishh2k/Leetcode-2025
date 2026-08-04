@@ -692,4 +692,5 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [1115-print-foobar-alternately](https://github.com/Aishh2k/Leetcode-2025/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1116-print-zero-even-odd](https://github.com/Aishh2k/Leetcode-2025/tree/main/1116-print-zero-even-odd/) | Medium |
+| [1117-building-h2o](https://github.com/Aishh2k/Leetcode-2025/tree/main/1117-building-h2o/) | Medium |
 <!---LeetCode Topics End-->
