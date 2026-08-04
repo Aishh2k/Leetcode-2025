@@ -14,13 +14,11 @@ public:
             return (water < 2);
         });
 
-        if(water == 0){
-            water = 1;
-        }else if(water == 1){
-            water = 2;
-        }
+        water++;
         releaseHydrogen();
-        cv.notify_all();        
+        if(water == 2){
+            cv.notify_all();      
+        }  
     }
 
     void oxygen(function<void()> releaseOxygen) {
