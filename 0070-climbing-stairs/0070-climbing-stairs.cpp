@@ -1,21 +1,19 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        if(n==1){
-            return 1;
-        }else if (n==2){
-            return 2;
+        if(n <=2){
+            return n;
         }
 
-        vector<int> cost(n+1,0);
-        cost[1] =1;
-        cost[2]=2;
-
-        for(int i =3;i<=n;i++){
-            cost[i] = cost[i-1]+ cost[i-2];
+        vector<int> steps(n+1, 0);
+        steps[1] = 1;
+        steps[2] = 2;
+        
+        for(int i = 3;i<=n;i++){
+            steps[i] = steps[i-1] + steps[i-2];
         }
 
-        return cost[n];
+        return steps[n];
         
     }
 };
