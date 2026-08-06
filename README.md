@@ -256,6 +256,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0509-fibonacci-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Aishh2k/Leetcode-2025/tree/main/0647-palindromic-substrings/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Recursion
@@ -418,6 +420,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0203-remove-linked-list-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +488,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0509-fibonacci-number/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
