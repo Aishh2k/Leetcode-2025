@@ -9,7 +9,8 @@ public:
         dp[1] = max(nums[0], nums[1]);
 
         for(int i =2;i<nums.size();i++){
-            int steal = nums[i] + dp[i-2];
+            int steal = nums[i] + dp[i-2]; // dp[i-2] was calculated using only houses: 0, 1, 2, ..., i-2
+                        // House i-1 is not even included in that range, so it is guaranteed not to be selected.
             int skip = dp[i-1];
 
             dp[i] = max(steal, skip);
