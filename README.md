@@ -198,6 +198,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1732-find-the-highest-altitude](https://github.com/Aishh2k/Leetcode-2025/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -262,6 +263,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
