@@ -1,29 +1,33 @@
 class Solution {
 public:
-    bool dfs( int r, int c, int i, vector<vector<char>>& board,string word){
-        if( i == word.size()){
+    bool dfs(int i, int j, vector<vector<char>>& board, string word, int idx){
+        if(idx == word.size()){
             return true;
         }
 
-        if(r<0 || c<0 || r == board.size() || c == board[0].size() || board[r][c] != word[i]){
+        if(i>=board.size() || j>= board[0].size() || i<0 || j<0 || board[i][j] != word[idx]){
             return false;
         }
 
-        char C = board[r][c];
-        board[r][c] = '*';
-        
-        bool res = dfs(r+1, c, i+1, board, word) || dfs(r, c+1, i+1, board, word) || dfs(r-1, c, i+1, board, word) || dfs(r, c-1, i+1, board, word);
-        board[r][c] = C;
-        return res;
+        char temp = board[i][j];
+        board[i][j] = '*';
+        bool present = dfs(i+1,j, board,word, idx+1) || dfs(i,j+1, board,word, idx+1) || dfs(i,j-1, board,word, idx+1)
+        || dfs(i-1,j, board,word, idx+1);
 
+        board[i][j] = temp;
+
+        return present;
     }
     bool exist(vector<vector<char>>& board, string word) {
-        bool ans;
+        int idx = 0;
+
         for(int i =0;i<board.size();i++){
-            for(int j = 0;j<board[0].size();j++){
-                if(board[i][j] == word[0]){
-                    ans = dfs(i, j, 0, board, word);
-                    if(ans) return true;
+            for(int j =0;j<board[0].size();j++){
+                if(board[i][j] == word[idx]){
+                    bool present = dfs(i,j,board,word, idx);
+                    if(present){
+                        return true;
+                    }
                 }
             }
         }
