@@ -188,6 +188,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -480,6 +481,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0090-subsets-ii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -488,6 +490,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0090-subsets-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -578,6 +581,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aishh2k/Leetcode-2025/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Shortest Path
@@ -710,4 +714,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
