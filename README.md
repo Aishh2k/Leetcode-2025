@@ -158,6 +158,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0238-product-of-array-except-self](https://github.com/Aishh2k/Leetcode-2025/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
@@ -254,6 +255,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -458,6 +460,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aishh2k/Leetcode-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -703,4 +706,8 @@ Collection of LeetCode questions used to ace interviews!
 | [1116-print-zero-even-odd](https://github.com/Aishh2k/Leetcode-2025/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1117-building-h2o](https://github.com/Aishh2k/Leetcode-2025/tree/main/1117-building-h2o/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/Aishh2k/Leetcode-2025/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
