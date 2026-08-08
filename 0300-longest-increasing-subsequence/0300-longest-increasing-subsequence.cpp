@@ -1,31 +1,21 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int i, int prev, vector<vector<int>>& dp) {
-        if (i == nums.size()) {
-            return 0; // no more elements to add so length is 0
-        }
-        // take ith element
-        int take = 0;
-        if (prev != -1 && dp[i][prev] != -1) {
-            return dp[i][prev];
-        }
-
-        if (prev == -1 || nums[prev] < nums[i]) {
-            take = 1 + solve(nums, i + 1, i, dp);
-        }
-
-        // skip ith element
-        int skip = solve(nums, i + 1, prev, dp);
-
-        if(prev != -1){
-            dp[i][prev] = max(skip, take);
-        }
-
-        return max(skip, take);
-    }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n,-1));
-        return(solve(nums, 0, -1, dp));
+        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+
+        for (int curr_i = n - 1; curr_i >= 0; curr_i--) {
+            for (int prev_i = curr_i - 1; prev_i >= -1; prev_i--) {
+                int take = 0;
+                if (prev_i == -1 || nums[prev_i] < nums[curr_i])
+                    take = 1 + dp[curr_i + 1][curr_i + 1];
+
+                int skip = dp[curr_i + 1][prev_i + 1];
+
+                dp[curr_i][prev_i + 1] = max(take, skip);
+            }
+        }
+
+        return dp[0][0];
     }
 };
