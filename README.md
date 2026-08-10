@@ -41,6 +41,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0997-find-the-town-judge/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -495,6 +497,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0491-non-decreasing-subsequences](https://github.com/Aishh2k/Leetcode-2025/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
+| [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Aishh2k/Leetcode-2025/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -666,6 +669,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
