@@ -47,6 +47,7 @@ Collection of LeetCode questions used to ace interviews!
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions used to ace interviews!
 | [2305-fair-distribution-of-cookies](https://github.com/Aishh2k/Leetcode-2025/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Aishh2k/Leetcode-2025/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +353,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +424,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0509-fibonacci-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +497,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Aishh2k/Leetcode-2025/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -715,6 +721,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
