@@ -64,6 +64,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Aishh2k/Leetcode-2025/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Aishh2k/Leetcode-2025/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Aishh2k/Leetcode-2025/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -482,6 +484,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Aishh2k/Leetcode-2025/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Aishh2k/Leetcode-2025/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0980-unique-paths-iii/) | Hard |
