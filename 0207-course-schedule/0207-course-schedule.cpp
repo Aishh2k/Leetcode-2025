@@ -1,40 +1,41 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& p) {
-        unordered_map<int, vector<int>> graph;
-        vector<int> inD(numCourses, 0);
+        unordered_map<int, vector<int>> graph; // if you take a -> [b, c] becomes available
+        vector<int> inD(numCourses,0);
 
-        for(auto i: p){
-            graph[i[1]].push_back(i[0]);
-            inD[i[0]]++;
+        for(int i =0;i<p.size();i++){
+            graph[p[i][1]].push_back(p[i][0]);
+            inD[p[i][0]]++;
         }
 
-        queue<int> take;
-
-        for(int i =0;i<numCourses;i++){
+        queue<int> q;
+        for(int i=0;i<numCourses;i++){
             if(inD[i] == 0){
-                take.push(i);
+                q.push(i);
             }
         }
-        int finish = 0;
-        while(!take.empty()){
-            int a = take.front();
-            take.pop();
-            finish++;
+        int taken = 0;
 
-            for(int i: graph[a]){
+        while(!q.empty()){
+            taken++;
+            int c = q.front();
+            q.pop();
+
+            for(int i: graph[c]){
                 inD[i]--;
+
                 if(inD[i] == 0){
-                    take.push(i);
+                    q.push(i);
                 }
             }
         }
 
-        if(finish == numCourses){
+        if(taken == numCourses){
             return true;
+        }else{
+            return false;
         }
-
-        return false;
         
     }
 };
