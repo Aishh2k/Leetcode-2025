@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int res = 0;
-    void dfs( int idx, vector<int>&nums, int k, unordered_map<int, int>& mp){
-        for(int i =idx;i<nums.size();i++){
-            if(mp.find(nums[i] - k) == mp.end() && mp.find(nums[i] + k) == mp.end()){
+    int ans = 0;
+    void dfs(int idx, unordered_map<int, int>& mp, vector<int>&nums, int k){
+        for(int i  = idx;i<nums.size();i++){
+            if(mp.find(nums[i] -k) == mp.end() && mp.find(nums[i] + k) == mp.end()){
+                ans++;
                 mp[nums[i]]++;
-                res++;
-                dfs(i+1, nums, k, mp);
+                dfs(i+1, mp, nums, k);
                 mp[nums[i]]--;
-                if (mp[nums[i]] == 0) {
+                if(mp[nums[i]] == 0){
                     mp.erase(nums[i]);
                 }
             }
@@ -16,10 +16,7 @@ public:
     }
     int beautifulSubsets(vector<int>& nums, int k) {
         unordered_map<int, int> mp;
-        dfs(0, nums, k, mp);
-        return res;
+        dfs(0, mp, nums, k);
+        return ans;
     }
 };
-
-/* Time Complexity
-There are up to 2^n subsets, and in the worst case we explore all of them. The hash-map check is O(1) average, so time is O(2^n), and recursion/map space is O(n) */
