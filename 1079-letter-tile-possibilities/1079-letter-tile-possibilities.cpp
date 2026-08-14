@@ -1,25 +1,22 @@
 class Solution {
 public:
-    int res = 0;
-    void dfs( vector<int>& count){
-
-        for(int i =0;i<26;i++){
-            if(count[i] > 0){
-                count[i]--;
-                res++;
-                dfs(count);
-                count[i]++;
+    int ans = 0;
+    void dfs(unordered_map<char, int>&mp){
+        for(auto i: mp){
+            if(i.second > 0){
+                ans++;
+                mp[i.first]--;
+                dfs(mp);
+                mp[i.first]++;
             }
         }
     }
     int numTilePossibilities(string tiles) {
-        vector<int> count(26,0);
-        for(auto c: tiles){
-            count[c-'A']++;
+        unordered_map<char, int> mp;
+        for(char c: tiles){
+            mp[c]++;
         }
-
-        dfs(count);
-        return res;
-        
+        dfs(mp);
+        return ans;
     }
 };
