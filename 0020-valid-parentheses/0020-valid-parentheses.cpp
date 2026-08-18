@@ -2,28 +2,28 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
-
-        for(char c : s){
-            if(c == '(' || c == '{' || c == '['){
+        for(char c: s){
+            if(c == '(' || c == '[' || c == '{'){
                 st.push(c);
             }else{
                 if(st.empty()){
                     return false;
-                }
-                char a = st.top();
-                st.pop();
+                }else{
+                    char t = st.top();
+                    st.pop();
 
-                if(c == ')'){
-                    if(a != '('){
-                        return false;
-                    }
-                }else if(c == ']'){
-                    if(a != '['){
-                        return false;
-                    }
-                }if(c == '}'){
-                    if(a != '{'){
-                        return false;
+                    if(c == '}'){
+                        if(t != '{'){
+                            return false;
+                        }
+                    }else if(c == ']'){
+                        if(t != '['){
+                            return false;
+                        }
+                    }else if(c == ')'){
+                        if(t != '('){
+                            return false;
+                        }
                     }
                 }
             }
