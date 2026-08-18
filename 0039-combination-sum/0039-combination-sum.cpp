@@ -1,26 +1,23 @@
 class Solution {
 public:
-    void dfs(int i, vector<vector<int>>& res, int sum, vector<int>& nums, int target, vector<int>& temp){
-        if(sum == target){
-            res.push_back(temp);
-            return;
-        }
-        if(i == nums.size()){
+    vector<vector<int>> result;
+    void dfs(int start, vector<int>& temp, vector<int>& c, int target){
+        if(target == 0){
+            result.push_back(temp);
             return;
         }
 
-        if(sum + nums[i] <= target){
-            temp.push_back(nums[i]);
-            dfs(i, res, sum + nums[i], nums, target, temp);
-            temp.pop_back();
+        for(int i = start;i<c.size();i++){
+            if(target - c[i] >= 0){
+                temp.push_back(c[i]);
+                dfs(i, temp, c, target - c[i]);
+                temp.pop_back();
+            }
         }
-        dfs(i+1, res, sum, nums, target, temp);
     }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> res;
-        int sum = 0;
+    vector<vector<int>> combinationSum(vector<int>& c, int target) {
         vector<int> temp;
-        dfs(0, res, sum, candidates, target, temp);
-        return res;
+        dfs(0, temp, c, target);
+        return result;
     }
 };
