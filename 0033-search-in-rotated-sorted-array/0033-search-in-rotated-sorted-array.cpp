@@ -4,25 +4,21 @@ public:
         int low = 0;
         int high = nums.size()-1;
 
-        while(low<=high){
+        while(low <= high){
             int mid = low + (high-low)/2;
-
-            if(target == nums[mid]){
+            if(nums[mid] == target){
                 return mid;
-            }else{ 
-                //right sorted
-                if(nums[mid]<= nums[high]){
-                    if(target> nums[mid] && target<= nums[high]){
-                        low = mid+1;
-                    }else{
-                        high = mid-1;
-                    }
-                }else{ // left sorted
-                    if(target>= nums[low] && target <nums[mid]){
-                        high = mid-1;
-                    }else{
-                        low = mid+1;
-                    }
+            }else if (nums[mid] >= nums[low]){ // left is sorted
+                if(target <= nums[mid] && target >= nums[low]){
+                    high = mid-1;
+                }else{
+                    low = mid+1;
+                }
+            }else{ // right is sorted
+                if(target <= nums[high] && target > nums[mid]){ // in the sorted half
+                    low = mid+1;
+                }else{
+                    high = mid-1;
                 }
             }
         }
@@ -31,3 +27,6 @@ public:
         
     }
 };
+
+// 12345
+// 45123 n = 3
