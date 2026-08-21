@@ -30,3 +30,6 @@ public:
         return false;
     }
 };
+
+/*
+“We try every board cell as a possible starting point. From each cell, DFS explores up to four directions for each character of the word, giving roughly O(m*n*4^L) time. The recursion depth is at most the word length, so space is O(L).”*/
