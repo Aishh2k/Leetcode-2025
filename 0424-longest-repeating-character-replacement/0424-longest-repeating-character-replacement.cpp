@@ -15,7 +15,7 @@ public:
                 }
             }
 
-            while(r-l+1 - maxf > k ){
+            if(r-l+1 - maxf > k ){
                 mp[s[l]]--;
                 l++;
             }
