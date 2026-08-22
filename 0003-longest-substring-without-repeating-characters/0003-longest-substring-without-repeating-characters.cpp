@@ -13,7 +13,6 @@ public:
 
         while(r<s.size()){
             if(st.count(s[r])){
-                ans = max(ans, r-l);
                 while(st.count(s[r])){
                     st.erase(s[l]);
                     l++;
@@ -21,6 +20,7 @@ public:
             }
 
             st.insert(s[r]);
+            ans = max(ans, r-l+1);
             r++;
         }
         
