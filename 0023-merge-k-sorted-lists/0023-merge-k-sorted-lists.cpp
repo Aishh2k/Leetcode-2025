@@ -14,6 +14,7 @@ public:
         if(!L1){
             return L2;
         }
+
         if(!L2){
             return L1;
         }
@@ -22,12 +23,12 @@ public:
         ListNode* temp = dummy;
 
         while(L1 && L2){
-            if(L1->val > L2->val){
-                temp->next = L2;
-                L2 = L2->next;
-            }else{
+            if(L1->val < L2->val){
                 temp->next = L1;
                 L1 = L1->next;
+            }else{
+                temp->next = L2;
+                L2 = L2->next; 
             }
             temp = temp->next;
         }
@@ -35,35 +36,36 @@ public:
         if(L1){
             temp->next = L1;
         }
+
         if(L2){
             temp->next = L2;
         }
 
         return dummy->next;
     }
-    ListNode* partition(int start, int end, vector<ListNode*>& lists){
+    ListNode* partition(int start, int end, vector<ListNode*>&lists){
         if(start == end){
             return lists[start];
         }
-        if(start > end){
+
+        if(start>end){
             return nullptr;
         }
-
         int mid = start + (end-start)/2;
+
         ListNode* L1 = partition(start, mid, lists);
         ListNode* L2 = partition(mid+1, end, lists);
 
         return(merge(L1, L2));
-
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size() == 0){
+        int n = lists.size();
+        if(n == 0){
             return nullptr;
         }
-        if(lists.size() == 1){
+        if(n == 1){
             return lists[0];
         }
-
-        return partition(0, lists.size()-1, lists);
+        return(partition(0, n-1, lists));
     }
 };
