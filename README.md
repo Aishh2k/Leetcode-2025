@@ -752,4 +752,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aishh2k/Leetcode-2025/tree/main/0020-valid-parentheses/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
