@@ -760,4 +760,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
