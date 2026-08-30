@@ -764,4 +764,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0056-merge-intervals/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
