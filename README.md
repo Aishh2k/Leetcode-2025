@@ -64,6 +64,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0071-simplify-path](https://github.com/Aishh2k/Leetcode-2025/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aishh2k/Leetcode-2025/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/Aishh2k/Leetcode-2025/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Aishh2k/Leetcode-2025/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aishh2k/Leetcode-2025/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -259,6 +260,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/Aishh2k/Leetcode-2025/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
