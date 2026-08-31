@@ -151,6 +151,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0130-surrounded-regions](https://github.com/Aishh2k/Leetcode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Aishh2k/Leetcode-2025/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aishh2k/Leetcode-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Aishh2k/Leetcode-2025/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Aishh2k/Leetcode-2025/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
