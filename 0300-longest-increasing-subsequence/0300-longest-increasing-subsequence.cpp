@@ -10,8 +10,7 @@ public:
             }
         }
 
-        int ans = *max_element(dp.begin(), dp.end());
-        return ans;
+        return *max_element(dp.begin(), dp.end());;
     }
 };
 
