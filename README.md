@@ -263,6 +263,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0045-jump-game-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Aishh2k/Leetcode-2025/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Aishh2k/Leetcode-2025/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
@@ -428,6 +429,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0007-reverse-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Aishh2k/Leetcode-2025/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/Aishh2k/Leetcode-2025/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Aishh2k/Leetcode-2025/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishh2k/Leetcode-2025/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -736,6 +738,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Aishh2k/Leetcode-2025/tree/main/0062-unique-paths/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Concurrency
