@@ -519,6 +519,7 @@ Collection of LeetCode questions used to ace interviews!
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0090-subsets-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/Aishh2k/Leetcode-2025/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aishh2k/Leetcode-2025/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Aishh2k/Leetcode-2025/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -658,6 +659,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Aishh2k/Leetcode-2025/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aishh2k/Leetcode-2025/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
