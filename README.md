@@ -90,6 +90,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aishh2k/Leetcode-2025/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/1405-longest-happy-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aishh2k/Leetcode-2025/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Aishh2k/Leetcode-2025/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -793,4 +795,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aishh2k/Leetcode-2025/tree/main/0139-word-break/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
