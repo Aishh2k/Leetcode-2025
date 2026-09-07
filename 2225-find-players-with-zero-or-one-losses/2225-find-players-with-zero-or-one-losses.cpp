@@ -1,31 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        unordered_map<int, int> mp;
-        unordered_set<int> winners;
-        for(auto i: matches){
-            if(winners.count(i[1])){
-                winners.erase(i[1]);
-            }
-            mp[i[1]]++;
-            if(mp.find(i[0]) == mp.end()){
-                winners.insert(i[0]);
+        unordered_map<int, int> lossFreq;
+        for (auto i : matches) {
+            int win = i[0];
+            int loss = i[1];
+
+            lossFreq[loss]++;
+            if (lossFreq.find(win) == lossFreq.end()) {
+                lossFreq[win] = 0;
             }
         }
         vector<vector<int>> ans;
-        vector<int> win(winners.begin(), winners.end());
-        sort(win.begin(), win.end());
-        ans.push_back(win);
-        vector<int> loser;
-
-        for(auto i: mp){
-            if(i.second == 1){
-                loser.push_back(i.first);
+        vector<int> temp1;
+        vector<int> temp2;
+        for (auto p : lossFreq) {
+            if (p.second == 0) {
+                temp1.push_back(p.first);
+            }else if(p.second == 1){
+                temp2.push_back(p.first);
             }
         }
-        sort(loser.begin(), loser.end());
-        ans.push_back(loser);
+
+        sort(temp1.begin(), temp1.end());
+        sort(temp2.begin(), temp2.end());
+        ans.push_back(temp1);
+        ans.push_back(temp2);
         return ans;
-        
+
+
     }
 };
