@@ -47,6 +47,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aishh2k/Leetcode-2025/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aishh2k/Leetcode-2025/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -216,6 +217,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aishh2k/Leetcode-2025/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aishh2k/Leetcode-2025/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aishh2k/Leetcode-2025/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Aishh2k/Leetcode-2025/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -368,6 +370,7 @@ Collection of LeetCode questions used to ace interviews!
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aishh2k/Leetcode-2025/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Aishh2k/Leetcode-2025/tree/main/1834-single-threaded-cpu/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aishh2k/Leetcode-2025/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Linked List
@@ -697,6 +700,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aishh2k/Leetcode-2025/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aishh2k/Leetcode-2025/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
