@@ -554,6 +554,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aishh2k/Leetcode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Aishh2k/Leetcode-2025/tree/main/0133-clone-graph/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0210-course-schedule-ii/) | Medium |
@@ -577,6 +578,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aishh2k/Leetcode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Aishh2k/Leetcode-2025/tree/main/0133-clone-graph/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Aishh2k/Leetcode-2025/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0210-course-schedule-ii/) | Medium |
@@ -744,6 +746,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -753,6 +756,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
