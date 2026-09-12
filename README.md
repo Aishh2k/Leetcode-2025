@@ -596,6 +596,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aishh2k/Leetcode-2025/tree/main/0841-keys-and-rooms/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aishh2k/Leetcode-2025/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aishh2k/Leetcode-2025/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aishh2k/Leetcode-2025/tree/main/1462-course-schedule-iv/) | Medium |
@@ -754,6 +755,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -767,6 +769,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
