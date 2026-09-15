@@ -11,26 +11,27 @@
  */
 class Solution {
 public:
-    bool dfs(TreeNode* p, TreeNode* q ){
-        if(!p && !q){
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        if(p == NULL && q == NULL){
             return true;
         }
-        if(p && !q){
+
+        if(p == NULL || q == NULL){
             return false;
         }
-        if(!p && q){
-            return false;
-        }
+
         if(p->val != q->val){
             return false;
         }
 
-        bool right = dfs(p->right, q->right);
-        bool left = dfs(p->left, q->left);
-        return(right && left);
-    }
+        bool right = isSameTree(p->right, q->right);
+        bool left = isSameTree(p->left, q->left);
 
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        return(dfs(p,q));
+        if(right && left){
+            return true;
+        }
+
+        return false;
+        
     }
 };
