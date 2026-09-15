@@ -554,6 +554,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0079-word-search/) | Medium |
+| [0100-same-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Aishh2k/Leetcode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Aishh2k/Leetcode-2025/tree/main/0133-clone-graph/) | Medium |
@@ -579,6 +580,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0127-word-ladder](https://github.com/Aishh2k/Leetcode-2025/tree/main/0127-word-ladder/) | Hard |
@@ -754,6 +756,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -770,6 +773,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
