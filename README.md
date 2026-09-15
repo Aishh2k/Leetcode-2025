@@ -569,6 +569,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0417-pacific-atlantic-water-flow](https://github.com/Aishh2k/Leetcode-2025/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aishh2k/Leetcode-2025/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aishh2k/Leetcode-2025/tree/main/0547-number-of-provinces/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Aishh2k/Leetcode-2025/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0721-accounts-merge/) | Medium |
@@ -739,6 +740,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 ## Bucket Sort
@@ -763,6 +765,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -780,6 +783,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Combinatorics
@@ -852,4 +856,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
