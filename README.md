@@ -276,6 +276,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0118-pascals-triangle](https://github.com/Aishh2k/Leetcode-2025/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aishh2k/Leetcode-2025/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Aishh2k/Leetcode-2025/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -557,6 +558,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0098-validate-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aishh2k/Leetcode-2025/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Aishh2k/Leetcode-2025/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -765,6 +767,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aishh2k/Leetcode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -787,6 +790,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0102-binary-tree-level-order-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aishh2k/Leetcode-2025/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aishh2k/Leetcode-2025/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aishh2k/Leetcode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -868,4 +872,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
