@@ -75,6 +75,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0139-word-break](https://github.com/Aishh2k/Leetcode-2025/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0394-decode-string/) | Medium |
@@ -412,6 +413,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0225-implement-stack-using-queues](https://github.com/Aishh2k/Leetcode-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aishh2k/Leetcode-2025/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/Aishh2k/Leetcode-2025/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -568,6 +570,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aishh2k/Leetcode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0310-minimum-height-trees](https://github.com/Aishh2k/Leetcode-2025/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aishh2k/Leetcode-2025/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -596,6 +599,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0207-course-schedule](https://github.com/Aishh2k/Leetcode-2025/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0310-minimum-height-trees](https://github.com/Aishh2k/Leetcode-2025/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
@@ -772,6 +776,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aishh2k/Leetcode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -795,6 +800,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0226-invert-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aishh2k/Leetcode-2025/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
