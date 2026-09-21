@@ -28,6 +28,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0219-contains-duplicate-ii](https://github.com/Aishh2k/Leetcode-2025/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishh2k/Leetcode-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/Aishh2k/Leetcode-2025/tree/main/0460-lfu-cache/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/Aishh2k/Leetcode-2025/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aishh2k/Leetcode-2025/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0399-evaluate-division](https://github.com/Aishh2k/Leetcode-2025/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aishh2k/Leetcode-2025/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -362,6 +364,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0242-valid-anagram](https://github.com/Aishh2k/Leetcode-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aishh2k/Leetcode-2025/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0721-accounts-merge/) | Medium |
@@ -666,6 +669,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0023-merge-k-sorted-lists](https://github.com/Aishh2k/Leetcode-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishh2k/Leetcode-2025/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Aishh2k/Leetcode-2025/tree/main/0743-network-delay-time/) | Medium |
@@ -693,6 +697,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Aishh2k/Leetcode-2025/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aishh2k/Leetcode-2025/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aishh2k/Leetcode-2025/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Merge Sort
@@ -719,6 +724,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aishh2k/Leetcode-2025/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Aishh2k/Leetcode-2025/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aishh2k/Leetcode-2025/tree/main/1079-letter-tile-possibilities/) | Medium |
@@ -754,6 +760,7 @@ Collection of LeetCode questions used to ace interviews!
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Aishh2k/Leetcode-2025/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -882,4 +889,8 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aishh2k/Leetcode-2025/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aishh2k/Leetcode-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
