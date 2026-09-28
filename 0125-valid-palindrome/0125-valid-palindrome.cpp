@@ -1,24 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string temp = "";
-
+        string str = "";
         for(char c: s){
             if(isalnum(c)){
-                temp += tolower(c);
+                str += tolower(c);
             }
         }
 
-        int l =0;
-        int r = temp.size()-1;
-
-        while(l<r){
-            if(temp[l]!= temp[r]){
+        for(int i = 0;i<str.size()/2;i++){
+            if(str[i] != str[str.size()-1-i]){
                 return false;
             }
-            l++; r--;
         }
-
         return true;
+        
     }
 };
