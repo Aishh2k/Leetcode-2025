@@ -1,29 +1,31 @@
 class Solution {
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        vector<pair<int, double>> ct;
+        vector<pair<int, double>> st;
 
-        for(int i =0;i<position.size();i++){
-            ct.push_back(make_pair(position[i], ((double)target-position[i])/speed[i]));
+        for(int i = 0;i<position.size();i++){
+            int a = position[i];
+            double b = (double)(target-a)/ speed[i];
+            st.push_back(make_pair(a,b));
         }
-        sort(ct.rbegin(), ct.rend());
 
-        int fleetCount = 0;
-        double fleetTime = 0;
+        sort(st.rbegin(), st.rend());
+        int fleetcount = 0;
+        double fleettime = 0;
 
-        for(auto p : ct){
-            if(fleetCount == 0){
-                fleetCount++;
-                fleetTime = p.second;
+        for(int i = 0;i<st.size();i++){
+            if(fleetcount == 0){
+                fleetcount++;
+                fleettime = st[i].second;
             }else{
-                if(p.second > fleetTime){
-                    fleetCount++;
-                    fleetTime = p.second;
+                if(st[i].second > fleettime){
+                    fleetcount++;
+                    fleettime = st[i].second;
                 }
             }
         }
 
-        return fleetCount;
+        return fleetcount;
         
     }
 };
