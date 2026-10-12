@@ -192,6 +192,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0682-baseball-game](https://github.com/Aishh2k/Leetcode-2025/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Aishh2k/Leetcode-2025/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aishh2k/Leetcode-2025/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0704-binary-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Aishh2k/Leetcode-2025/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Aishh2k/Leetcode-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0721-accounts-merge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0721-accounts-merge/) | Medium |
@@ -504,6 +505,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0268-missing-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aishh2k/Leetcode-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aishh2k/Leetcode-2025/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Aishh2k/Leetcode-2025/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aishh2k/Leetcode-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aishh2k/Leetcode-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
