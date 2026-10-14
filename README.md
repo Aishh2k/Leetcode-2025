@@ -90,6 +90,7 @@ Collection of LeetCode questions used to ace interviews!
 | [0721-accounts-merge](https://github.com/Aishh2k/Leetcode-2025/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Aishh2k/Leetcode-2025/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0767-reorganize-string/) | Medium |
+| [0796-rotate-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Aishh2k/Leetcode-2025/tree/main/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aishh2k/Leetcode-2025/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Aishh2k/Leetcode-2025/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -887,6 +888,7 @@ Collection of LeetCode questions used to ace interviews!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aishh2k/Leetcode-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/Aishh2k/Leetcode-2025/tree/main/0796-rotate-string/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
