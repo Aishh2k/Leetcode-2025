@@ -1,9 +1,9 @@
 class FooBar {
 private:
-    std::condition_variable cv;
-    std::mutex m;
     int n;
-    bool turn = true;
+    mutex m;
+    condition_variable cv;
+    int ready = 0;
 
 public:
     FooBar(int n) {
@@ -11,29 +11,30 @@ public:
     }
 
     void foo(function<void()> printFoo) {
+        unique_lock<mutex> lock(m);
         
         for (int i = 0; i < n; i++) {
-            std::unique_lock<std::mutex> lock(m);
-            cv.wait(lock,[&]{
-                return turn;
+            cv.wait(lock,[&](){
+                return (ready%2 == 0);
             });
+            
         	// printFoo() outputs "foo". Do not change or remove this line.
         	printFoo();
-            turn = false;
+            ready++;
             cv.notify_all();
         }
     }
 
     void bar(function<void()> printBar) {
-        
+        unique_lock<mutex> lock(m);
+
         for (int i = 0; i < n; i++) {
-            std::unique_lock<std::mutex> lock(m);
-            cv.wait(lock,[&]{
-                return !turn;
+            cv.wait(lock,[&](){
+                return (ready%2 == 1);
             });
         	// printBar() outputs "bar". Do not change or remove this line.
         	printBar();
-            turn = true;
+            ready++;
             cv.notify_all();
         }
     }
