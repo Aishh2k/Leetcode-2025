@@ -1,54 +1,54 @@
 class ZeroEvenOdd {
 private:
     int n;
-    std::mutex m;
-    std::condition_variable cv;
-    int turn;
+    mutex m;
+    condition_variable cv;
+    int counter = 1;
+    bool ready = true;
 
 public:
     ZeroEvenOdd(int n) {
         this->n = n;
-        turn = 0;
     }
 
     // printNumber(x) outputs "x", where x is an integer.
     void zero(function<void(int)> printNumber) {
-        for(int i =1;i<=n;i++){
-            std::unique_lock<std::mutex> lock(m);
-            cv.wait(lock, [&]{
-                return turn == 0;
+        unique_lock<mutex> lock(m);
+        for(int i = 0;i<n;i++){
+            cv.wait(lock, [&](){
+                return ready == true;
             });
-            printNumber(0);
-            if(i%2 == 1){
-                turn = 1; //odd
-            }else{
-                turn = 2; // even
-            }
-            cv.notify_all();
-        }
-        
-    }
 
-    void odd(function<void(int)> printNumber) {
-        for(int i =1;i<=n;i+=2){
-            std::unique_lock<std::mutex> lock(m);
-            cv.wait(lock, [&]{
-                return turn == 1;
-            });
-            printNumber(i);
-            turn = 0;
+            printNumber(0);
+            ready = false;
             cv.notify_all();
         }
     }
 
     void even(function<void(int)> printNumber) {
-        for(int i =2;i<=n;i += 2){
-            std::unique_lock<std::mutex> lock(m);
-            cv.wait(lock, [&]{
-                return turn == 2;
+        unique_lock<mutex> lock(m);
+        for(int i = 2;i<=n;i += 2){
+            cv.wait(lock, [&](){
+                return ready!= true && counter %2 == 0;
             });
-            printNumber(i);
-            turn = 0;
+
+            printNumber(counter);
+            counter++;
+            ready = true;
+            cv.notify_all();
+        }
+    }
+
+    void odd(function<void(int)> printNumber) {
+        unique_lock<mutex> lock(m);
+        for(int i = 1;i<=n;i += 2){
+            cv.wait(lock, [&](){
+                return ready != true && counter %2 == 1;
+            });
+
+            printNumber(counter);
+            ready = true;
+            counter++;
             cv.notify_all();
         }
     }
