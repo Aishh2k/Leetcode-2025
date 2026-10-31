@@ -3,42 +3,38 @@ public:
     bool isValidSudoku(vector<vector<char>>& board) {
 
         for(int i = 0;i<board.size();i++){
-            unordered_set<char> row;
-            unordered_set<char> col;
-            unordered_set<char> box;
-
+            unordered_set<int> rowWise;
+            unordered_set<int> colWise;
+            unordered_set<int> boxWise;
             for(int j = 0;j<board[0].size();j++){
-                if(board[i][j] != '.'){ // row wise check
-                    if(row.count(board[i][j])){
+                if(board[i][j] != '.'){
+                    if(rowWise.count(board[i][j])){
                         return false;
                     }else{
-                        row.insert(board[i][j]);
+                        rowWise.insert(board[i][j]);
                     }
                 }
 
-                if(board[j][i] != '.'){ // col wise check
-                    if(col.count(board[j][i])){
+                if(board[j][i] != '.'){
+                    if(colWise.count(board[j][i])){
                         return false;
                     }else{
-                        col.insert(board[j][i]);
+                        colWise.insert(board[j][i]);
                     }
                 }
 
-                // sub box wise checkchat
-                int brow = (i/3) *3;
-                int bcol = (i%3) *3;
+                int rowStart = (i/3) * 3;
+                int colStart =  (i%3) *3;
 
-                if(board[brow + (j/3)][bcol + (j%3)] != '.'){ // col wise check
-                    if(box.count(board[brow + (j/3)][bcol + (j%3)])){
+                if(board[rowStart + (j/3)][colStart + (j%3)] != '.'){
+                    if(boxWise.count(board[rowStart + (j/3)][colStart + (j%3)])){
                         return false;
                     }else{
-                        box.insert(board[brow + (j/3)][bcol + (j%3)]);
+                        boxWise.insert(board[rowStart + (j/3)][colStart + (j%3)]);
                     }
                 }
             }
         }
-
         return true;
-        
     }
 };
