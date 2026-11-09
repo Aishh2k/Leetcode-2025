@@ -2,47 +2,45 @@ class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
         int n = heights.size();
-        int res = 0;
-
-        // next smaller to right
-
+        vector<int> left_smaller(n, -1);
         stack<int> st;
-        vector<int> right_index(n,-1);
+        //The stack stores indices of bars that are potential nearest smaller elements for future bars.
 
-        for(int i = 0;i<n;i++){
-            while(!st.empty() && heights[i]< heights[st.top()]){
-                right_index[st.top()] = i;
+        for(int i = 0;i<n;i++){ // left smaller
+            while(!st.empty() && heights[st.top()] >= heights[i]){
                 st.pop();
+            }
+
+            if(!st.empty()){
+                left_smaller[i] = st.top();
             }
             st.push(i);
         }
 
-        // next smaller to left
-        stack<int> left;
-        vector<int> left_index(n,-1);
+        while(!st.empty()){ // emptying stack
+            st.pop();
+        }
 
-        for(int i = n-1;i>=0;i--){
-            while(!left.empty() && heights[i]< heights[left.top()]){
-                left_index[left.top()] = i;
-                left.pop();
+        vector<int> right_smaller(n, n);
+
+        for(int i = n-1;i>=0;i--){ // right smaller
+            while(!st.empty() && heights[st.top()] >= heights[i]){
+                st.pop();
             }
-            left.push(i);
-        }
 
-        // right index -1 cases
-        for(int i =0;i<n;i++){
-            if(right_index[i] == -1){
-                right_index[i] = n;
+            if(!st.empty()){
+                right_smaller[i] = st.top();
             }
+
+            st.push(i);
         }
 
-        for(int i =0;i<n;i++){
-            int width = right_index[i]-left_index[i]-1;
-            int ans = heights[i] * width;
-            res = max(res,ans);
+        int ans = INT_MIN;
+        for(int i = 0;i<n;i++){
+            int area = heights[i] * (right_smaller[i] - left_smaller[i] - 1);
+            ans = max(area, ans);
         }
 
-        return res;
-        
+        return ans; 
     }
 };
