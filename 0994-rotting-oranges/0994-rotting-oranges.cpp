@@ -1,48 +1,47 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int time = 0;
-        int fresh = 0;
         queue<pair<int, int>> rotten;
+        int fresh = 0;
 
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[0].size(); j++) {
                 if (grid[i][j] == 2) {
-                    rotten.push({i, j});
+                    rotten.push(make_pair(i, j));
                 } else if (grid[i][j] == 1) {
                     fresh++;
                 }
             }
         }
 
-        while (!rotten.empty() && fresh > 0) {
-            int s = rotten.size();
-            time++;
+        vector<pair<int, int>> dir = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+        int mins = 0;
 
-            for (int i = 0; i < s; i++) {
+        while (!rotten.empty() && fresh > 0) {
+            int n = rotten.size();
+            mins++;
+            for (int i = 0; i < n; i++) {
                 auto [r, c] = rotten.front();
                 rotten.pop();
-
-                vector<pair<int, int>> dir = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
 
                 for (auto [dr, dc] : dir) {
                     dr += r;
                     dc += c;
 
-                    if (dr < grid.size() && dc < grid[0].size() && dr >= 0 &&
-                        dc >= 0 && grid[dr][dc] == 1) {
-                        fresh--;
+                    if (dr >= 0 && dc >= 0 && dr < grid.size() &&
+                        dc < grid[0].size() && grid[dr][dc] == 1) {
                         grid[dr][dc] = 2;
-                        rotten.push({dr, dc});
+                        fresh--;
+                        rotten.push(make_pair(dr, dc));
                     }
                 }
             }
         }
 
-        if(fresh>0){
+        if (fresh > 0) {
             return -1;
-        }else{
-            return time;
+        } else {
+            return mins;
         }
     }
 };
