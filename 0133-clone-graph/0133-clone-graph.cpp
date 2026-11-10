@@ -21,34 +21,42 @@ public:
 
 class Solution {
 public:
-    void dfs(Node* node, unordered_set<Node*>& visited, unordered_map<Node*, Node*>& mp){
-        if(visited.count(node)){
+    void dfs(Node* node, unordered_map<Node*, Node*>& mp){
+        if(!node){
             return;
         }
-        visited.insert(node);
+
         Node* newNode = new Node(node->val);
         mp[node] = newNode;
 
-        for(Node* nei : node->neighbors){
-            dfs(nei, visited, mp);
+        for(auto nei: node->neighbors){
+            if(mp.find(nei) == mp.end()){
+                dfs(nei, mp);
+            }
         }
-    }   
+    }
     Node* cloneGraph(Node* node) {
         if(!node){
-            return nullptr;
+            return NULL;
         }
-        unordered_set<Node*> visited;
+
+        if(!node->neighbors.size()){
+            Node* newNode  = new Node(node->val);
+            return newNode;
+        }
+
+        Node* temp = node;
         unordered_map<Node*, Node*> mp;
 
-        dfs(node,visited,mp);
+        dfs(node, mp);
 
-        for(auto nodes: mp){
-            for(Node* nei: nodes.first->neighbors){
-                nodes.second->neighbors.push_back(mp[nei]);
+        for(auto pair: mp){
+            for(auto nei: pair.first->neighbors){
+                pair.second->neighbors.push_back(mp[nei]);
             }
         }
 
         return mp[node];
-        
+
     }
 };
