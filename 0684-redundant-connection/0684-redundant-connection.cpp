@@ -1,37 +1,31 @@
 class Solution {
 public:
-    int find(int a, vector<int>& root) {
-        if (root[a] != a) {
+    int find(int a, vector<int>&root){
+        if(a != root[a]){
             root[a] = find(root[a], root);
         }
+
         return root[a];
     }
-    bool unite(int a, int b, vector<int>& root) {
-        int ra = find(a, root);
-        int rb = find(b, root);
-
-        if (ra == rb) {
-            return false;
-        } else {
-            root[rb] = ra;
-            return true;
-        }
-    }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        // union find algorithm
-        vector<int> root(edges.size() + 1);
-        vector<int> ans;
-        for (int i = 0; i < edges.size(); i++) {
+        vector<int> root(edges.size()+1, 0);
+        for(int i = 0;i<=edges.size();i++){
             root[i] = i;
         }
 
-        for (auto edge : edges) {
-            if (!unite(edge[0], edge[1], root)) {
-                ans.push_back(edge[0]);
-                ans.push_back(edge[1]);
+        for(auto edge: edges){
+            int a = edge[0];
+            int b = edge[1];
+
+            int ra = find(a, root);
+            int rb = find(b, root);
+            if(ra == rb){
+                return edge;
             }
+
+            root[rb] = ra;
         }
 
-        return ans;
+        return {-1,-1};
     }
 };
